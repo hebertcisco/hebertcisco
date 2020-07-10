@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tecnobertinfo@gmail.com)](mailto:tecnobertinfo@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/tecnobert/)](https://www.instagram.com/tecnobert/)
 
-- 🔭 I’m currently working on [Código Fonte TV](https://www.youtube.com/user/codigofontetv);
+- 🔭 I’m currently Working as a Freelancer;
 - 🌱 I’m currently learning C# and Swift;
 - 😄 Also Video Editor;
 - :sunglasses: Computer technician;
