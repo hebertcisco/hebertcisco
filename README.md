@@ -14,3 +14,5 @@
 - 💬 Ask me about JavaScript;
 - :green_heart: In loving with Node.js;
 - :cupid: Cheating on Node with Deno
+
+> ### Blog: [tecnobert.com.br](http://tecnobert.com.br/)
