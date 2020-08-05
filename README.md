@@ -15,7 +15,7 @@
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=white" /></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=IruPlori&theme=white" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=Proffy&theme=white" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=Konvertilo&theme=white" /></td>
   </tr>  
 </table>
