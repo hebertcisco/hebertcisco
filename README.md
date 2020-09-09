@@ -16,24 +16,3 @@
 - :cupid: Cheating on Node with Deno
 
 > ### Blog: [tecnobert.com.br](http://tecnobert.com.br/)
-
-# My Contributions
-
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&hide=html&layout=compact&theme=white" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=white" /></td>
-  </tr> 
-</table>
-</center>
-
-<center>
-<table>
- 
-<tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=Proffy&theme=white" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=randpass&theme=white" /></td>
-  </tr>  
-</table>
-</center>
