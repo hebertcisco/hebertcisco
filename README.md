@@ -15,10 +15,10 @@
 </table>
 </center>
 
-- 🔭 I’m currently Working as a Freelancer;
+- 🔭 I’m currently Working as FullTime;
 - 🌱 I’m currently learning C# and Swift;
-- 😄 Also Video Editor;
-- :sunglasses: Computer technician;
+- 😄 Also Video Editor (now is Hobbie);
+- :sunglasses: Web Developer;
 - :neckbeard: Engineering Student
 - 💬 Ask me about JavaScript;
 - :green_heart: In loving with Node.js;
