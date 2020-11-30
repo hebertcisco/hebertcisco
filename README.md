@@ -16,7 +16,7 @@
 </center>
 
 - 🔭 I’m currently Working as FullTime;
-- 🌱 I’m currently learning C# and Swift;
+- 🌱 I’m currently learning Rust and Kubernets;
 - 😄 Also Video Editor (now is Hobbie);
 - :sunglasses: Web Developer;
 - :neckbeard: Engineering Student
