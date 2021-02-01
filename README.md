@@ -24,3 +24,5 @@
 
 > ### Blog: [tecnobert.com.br](http://tecnobert.com.br/)
 > ### Portfólio: [hebertbarros.me](https://hebertbarros.me/)
+
+[![hebertcisco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hebertcisco&layout=compact)](https://github.com/hebertcisco/hebertcisco)
