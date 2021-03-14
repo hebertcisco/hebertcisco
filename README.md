@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/euhebertbarros/)](https://www.instagram.com/euhebertbarros/)
 
 <center>
+  
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&hide=html&layout=compact" /></td>
@@ -21,6 +22,22 @@
 - 💬 Ask me about JavaScript;
 - :green_heart: In loving with Node.js;
 - :cupid: Cheating on Node with Deno
+
+<center>
+  
+<table>
+  <tr>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=musiko-app" /></td>
+     <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=instantclient_oracledb" /></td>
+    
+  </tr>  
+  <tr>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=randpass" /></td>
+     <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=maclinus" /></td>
+    
+  </tr>  
+</table>
+</center>
 
 > ### Blog: [tecnobert.com.br](http://tecnobert.com.br/)
 > ### Portfólio: [hebertbarros.me](https://hebertbarros.me/)
