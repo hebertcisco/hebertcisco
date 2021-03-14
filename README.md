@@ -27,13 +27,13 @@
   
 <table>
   <tr>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=musiko-app" /></td>
-     <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=instantclient_oracledb" /></td>
+      <td><a href="https://github.com/hebertcisco/musiko-app"><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=musiko-app" /></a></td>
+     <td><a href="https://github.com/hebertcisco/musiko-app"><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=instantclient_oracledb" /></a></td>
     
   </tr>  
   <tr>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=randpass" /></td>
-     <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=maclinus" /></td>
+      <td><a href="https://github.com/hebertcisco/musiko-app"><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=randpass" /></a></td>
+     <td><a href="https://github.com/hebertcisco/musiko-app"><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hebertcisco&repo=maclinus" /></a></td>
     
   </tr>  
 </table>
