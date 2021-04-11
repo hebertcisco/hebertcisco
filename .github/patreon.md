@@ -27,20 +27,27 @@
 
 #### Moleton de capuz NodeJS
 
-<img style="width: 300px" alt="Moleton de capuz NodeJS" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-2055867d-c780-4b6a-b430-e0650a70a8e3.png"/>
+<p style="width: 200px";>
+<img  alt="Moleton de capuz NodeJS" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-2055867d-c780-4b6a-b430-e0650a70a8e3.png"/>
+</p>
 
 #### Camiseta NodeJS
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Camiseta NodeJS" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-a33a644d-b6df-4d62-98cb-2d82e9d88617.png"/>
+</p>
 
 #### Camisa de manga longa NodeJS
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Camisa de manga longa NodeJS" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-965f27ae-8096-4ed4-8b87-6b863af64dd5.png"/>
-
+</p>
 
 #### Caneca NodeJS
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Caneca NodeJS" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_basic-303b1267-f804-4078-b033-f44c0581a61e.png"/>
+</p>
 
 ### Pacote de adesivos para quem ama tecnologia:
 
@@ -53,20 +60,27 @@
 
 #### Adesivo coração de placa mãe
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Adesivo coração de placa mãe" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-f71dae7b-8cc9-4f03-ab14-93bd723d1d03.png"/>
+</p>
 
 #### Adesivo NodeJS exclusivo
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Adesivo NodeJS exclusivo" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-7b17f785-bb14-4036-921e-49d753e8f0e9.png"/>
+</p>
 
 #### Adesivo Bitcoin exclusivo
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Adesivo Bitcoin exclusivo" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-bc9b46fd-7b0b-49d2-92d7-9f009f03d09c.png"/>
-
+</p>
 
 #### Adesivo Pinguin Tux
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Adesivo Pinguin Tux" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-98b724bd-3588-4a80-a344-f40cecff2dd0.png"/>
+</p>
 
 ### Uma caneca para os fãs da Franquia Matrix:
 
@@ -74,7 +88,9 @@
 
 #### Caneca Exclusiva
 
+<p style="width: 200px";>
 <img style="width: 300px" alt="Uma caneca para os fãs da Franquia Matrix" src="https://tecnobert.com.br/wp-content/uploads/2021/04/mockup_lifestyle-db4cd0e9-4832-4839-9e7a-f396a08262ad.png"/>
+</p>
 
 Para começar a apoiar basta usar o botão abaixo e veja qual melhor opção mais em conta pra você. Leia com atenção e lembre-se de preencher o endereço corretamente para receber os brindes (caso obter algum pacote).
 
