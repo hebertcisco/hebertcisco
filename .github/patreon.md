@@ -8,7 +8,7 @@
 
 - Os projetos serão periodicamente revisados e melhorados.
 - Serão criados mais projetos pra impactar positivamente a comunidade OpenSource.
-- Irá me incentivar a parici par de outros projetos de código aberto.
+- Irá me incentivar a participar de outros projetos de código aberto.
 - Me ajudará a manter os estudos.
 - Você terá direito a itens exclusivos no meu [Patreon](https://www.patreon.com/hebertfbarros/membership) (Veja abaixo os itens).
 
