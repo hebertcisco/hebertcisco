@@ -13,6 +13,15 @@
 - :green_heart: In loving with Node.js;
 - :cupid: Cheating on Node with Deno
 
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&hide=html&layout=compact&theme=github_dark" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=github_dark&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
+
 **Some stats from my Github:** 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hebertcisco alt=hebertcisco /> </p>
 
