@@ -6,12 +6,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hebert.js/)](https://www.instagram.com/hebert.js/)
 
 - 🔭 I’m currently Working as FullTime;
-- 😄 Also Video Editor (now is Hobbie);
+- 😄 Also Video Editor (as Hobbie);
 - :sunglasses: Web Developer;
-- :neckbeard: Engineering Student
-- 💬 Ask me about JavaScript;
-- :green_heart: In loving with Node.js;
-- :cupid: Cheating on Node with Deno
+- :neckbeard: Engineering Student;
+- 💬 Ask me about ECMAScript;
+- :green_heart: In loving with Node.js and Deno;
 
 <center>
 <table>
