@@ -12,11 +12,16 @@
 - 💬 Ask me about ECMAScript;
 - :green_heart: In loving with Node.js and Deno;
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&hide=html&layout=compact&theme=github_dark" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=github_dark&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+<p>
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hebertcisco&theme=dracula" alt="hebertcisco"/>
+  <img height="180em"  width="360em" src="https://github-readme-streak-stats.herokuapp.com?user=hebertcisco&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="hebertcisco"/>
+  
+</p>
