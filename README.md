@@ -11,7 +11,6 @@
 &emsp;&emsp;&emsp;**Specialty**&emsp;&emsp;&emsp;: Backend Software Engineer <br>
 &emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;&emsp;&nbsp;: He/Him/His <br>
 &emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Brazil 🇧🇷<br>
-&emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
 ## 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
