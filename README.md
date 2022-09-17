@@ -1,63 +1,212 @@
-### Hi, I'm Hebert, nice to meet you... 👋
+| [![Hebert Cisco](https://img.shields.io/badge/HB-HEBERT%20CISCO-blue)](#) | [![Followers](https://img.shields.io/github/followers/hebertcisco)](#) | [![Stars](https://img.shields.io/github/stars/hebertcisco?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=hebertcisco&color=red)](#) |
+--| --| --| --|
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hebert-f-barros/)](https://www.linkedin.com/in/hebert-f-barros/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hebertcisco)](https://twitter.com/hebertcisco)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tecnobertinfo@gmail.com)](mailto:tecnobertinfo@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hebert.js/)](https://www.instagram.com/hebert.js/)
+<br>
 
-- 🔭 I’m currently Working as FullTime;
-- 😄 Also Video Editor (as Hobbie);
-- :sunglasses: Web Developer;
-- :neckbeard: Engineering Student;
-- 💬 Ask me about ECMAScript;
-- :green_heart: In loving with Node.js and Deno;
+### Oh hi there 👋 I am Hebert, a Backend Software Engineer and a huge fan of open source development.<br>
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" height="40" width="52" alt="codecov logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" width="52" alt="denojs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
-</div>
+## 1.  🧑 **PERSONA** <br>
 
-📈 **My GitHub Stats:**
+&emsp;&emsp;&emsp;**Full Name**&emsp;&emsp;&nbsp;&nbsp;: Hebert Francisco <br>
+&emsp;&emsp;&emsp;**Specialty**&emsp;&emsp;&emsp;: Backend Software Engineer <br>
+&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;&emsp;&nbsp;: He/Him/His <br>
+&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Brazil 🇧🇷<br>
+&emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hebertcisco.hebertcisco&right_color=indigo"  />
-</div>
+## 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
-###
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+> Below are the lists of my development stack and the areas I have knowledge of.
 
-<p>
-  
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hebertcisco&theme=dracula" alt="hebertcisco"/>
-  <img height="180em"  width="360em" src="https://github-readme-streak-stats.herokuapp.com?user=hebertcisco&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="hebertcisco"/>
-  
-</p>
+### 0. **LANGUAGES**<br>
+
+- [x] **JavaScript** - Main language<br>
+- [x] **TypeScript** - Main too<br>
+- [x] **Java** - Secondary language<br>
+- [x] **Kotlin** - Other secondary too<br>
+- [x] **Python** - Reserve language<br>
+- [x] **C#** - Language I admire for strong typing<br>
+- [x] **C++** - Learned in college<br>
+- [x] **C** - Learned in college<br>
+- [x] **PHP** - I learned but didn't use it much...<br>
+
+### 1. Microservice development
+
+- Redis - publish/subscribe messaging paradigm.
+- RabbitMQ - message broker.
+- Apache Kafka - distributed streaming platform.
+- gRPC - high performance, open source universal RPC framework.
+
+### 2. Backend Development
+
+- Nodejs - My principal JavaScript runtime environment.
+- Denojs - Other JavaScript runtime environment.
+- Express.js - Node.js web application framework.
+- Nestjs - Node.js framework for building efficient, scalable, and enterprise-grade server-side applications.
+
+### 3. Web Development
+
+- Vanilla - HTML, CSS, JavaScript.
+- React.js - JavaScript library for building user interfaces.
+- Angular - TypeScript-based open-source web application framework.
+- Svelte - JavaScript framework for building user interfaces.
+- Next.js - React framework for production.
+- Solid.js - JavaScript library for building user interfaces.
+- WebAssembly(Wasm) - binary instruction format for a stack-based virtual machine.
+
+### 4. Mobile Development (Hobby)
+
+- React Native - JavaScript framework for building native apps for Android and iOS.
+- Native Android - Java/Kotlin.
+- Ionic - Hybrid mobile app development framework.
+
+### 5. CLI Development
+
+- Node.js - With commander and inquirer.
+- C# - With Spectre.Console.
+- C++ - With CLI11.
+- Java - With JCommander.
+
+### 6. Shell Scripting
+
+- Bash programming.
+- Powershell programming.
+
+### 7. Databases
+
+- Postgres.
+- MySQL
+- Oracle
+- MongoDB
+- SQLite
+
+### 8. Operating Systems
+
+- Linux Ubuntu (Main),
+- Linux Kali (PenTest),
+- Linux Alpine (Docker images),
+- Windows 11 - For gaming and some development tools.
+
+### 9. Virtualization
+
+- Docker
+- WSL2
+- VirtualBox
+- VMware
+
+### 10. Cloud Computing
+
+- AWS
+- Azure
+- IBM Cloud
+- Google Cloud
+- Heroku
+- Vercel
+- Netlify
+
+### 11. CI/CD
+
+- Travis CI
+- Circle CI
+- GitHub Actions
+- GitLab CI/CD
+
+### 13. Version Control
+
+- Git
+
+### 14. Testing
+
+- Jest
+- Japa
+- Cypress
+- CodeCov
+
+### 15. Design Patterns
+
+- Factory
+- Adapter
+- Abstract
+- Builder
+- Decorator
+- Singleton
+- Facade
+
+### 16. Software Architecture
+
+- MVC
+- TDD
+- DDD
+- SOLID
+- Clean Architecture
+
+### 17. Software Engineering
+
+- Agile
+- Scrum
+- Kanban
+
+<br><br>3.  ✨ **OPEN SOURCE**<br>
+
+| # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
+-- | -- | -- | -- | -- | -- |
+| 0 | [vercel-typescript-rest-api](https://github.com/dkrivoruchko/ScreenStream) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Screen Stream Android app | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/dkrivoruchko/ScreenStream)
+| 1 | [vercel-typescript-rest-api](https://github.com/hebertcisco/vercel-typescript-rest-api) | ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | REST API example to deploy in Vercel(Typescript, Express. MongoDB) | ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/vercel-typescript-rest-api)
+| 2 | [ts-npm-package-boilerplate](https://github.com/hebertcisco/ts-npm-package-boilerplate) | ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | TypeScript NPM Module Boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/ts-npm-package-boilerplate)
+| 3 | [instabot-core](https://github.com/hebertcisco/instabot-core) | ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | Instagram comment generator robot | ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/instabot-core)
+| 4 | [pensador-api](https://github.com/hebertcisco/pensador-api) | ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | Portuguese phrases API. | ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/pensador-api)
+|  | |  |  |  | |
+
+<br><br>4.  📙 **Documented Learning Projects**
+|#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
+|-|-|-|-|
+|1.|[shellcheck](https://github.com/koalaman/shellcheck)|ShellCheck, a static analysis tool for shell scripts| ![](https://img.shields.io/github/stars/koalaman/shellcheck)
+|2.|[netdata](https://github.com/netdata/netdata)|Real-time performance monitoring, done right!| ![](https://img.shields.io/github/stars/netdata/netdata)
+|||||
+
+<br><br>7.  🗣️ **LANGUAGES**<br>
+|LANGUAGE|LEVEL|LINK|
+|-|-|-|
+| Portuguese | Native | N/A |
+| English | Basic/Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/euhebertbarros) |
+| French | Basic | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/euhebertbarros)
+| Spanish | Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/euhebertbarros) |
+||||
+
+<br><br>8. #️⃣ **REACH ME**<br>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecnobertinfo@gmail.com) &emsp;
+[![LinkedIn - Hebert Cisco](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-f-barros/)&emsp;&emsp;
+
+## 9. #️ 📖 **Articles and Posts**<br>
+
+&emsp;&emsp;&emsp;
+[![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hebertcisco)
+
+<br>
+
+<!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hebertcisco&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&langs_count=5&theme=tokyonight)]()
+-->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=hebertcisco&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hebertcisco&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+***
+
+## Show your support
+
+Give a ⭐️ in my projects!
+
+Or buy me a coffee 🙌🏾
+
+<a href="https://www.buymeacoffee.com/hebertcisco">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hebertcisco&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
+</a>
