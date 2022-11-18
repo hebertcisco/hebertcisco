@@ -153,9 +153,7 @@
 | 2 | [ts-npm-package-boilerplate](https://github.com/hebertcisco/ts-npm-package-boilerplate) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | TypeScript NPM Module Boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/ts-npm-package-boilerplate)
 | 3 | [instabot-core](https://github.com/hebertcisco/instabot-core) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | Instagram comment generator robot | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/instabot-core)
 | 4 | [pensador-api](https://github.com/hebertcisco/pensador-api) | ![](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | Portuguese phrases API. | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/pensador-api)
-| 5 | [nestjs-minimal-boilerplate](https://github.com/hebertcisco/nestjs-minimal-boilerplate) | ![]([https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)) | Nestjs minimal API boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/nestjs-minimal-boilerplate)
-
-
+| 5 | [nestjs-minimal-boilerplate](https://github.com/hebertcisco/nestjs-minimal-boilerplate) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | Nestjs minimal API boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/nestjs-minimal-boilerplate)
 |  | |  |  |  | |
 
 <br><br>4.  📙 **Documented Learning Projects**
