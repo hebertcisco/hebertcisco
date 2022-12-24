@@ -156,13 +156,6 @@
 | 5 | [nestjs-minimal-boilerplate](https://github.com/hebertcisco/nestjs-minimal-boilerplate) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | Nestjs minimal API boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/nestjs-minimal-boilerplate)
 |  | |  |  |  | |
 
-<br><br>4.  📙 **Documented Learning Projects**
-|#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
-|-|-|-|-|
-|1.|[shellcheck](https://github.com/koalaman/shellcheck)|ShellCheck, a static analysis tool for shell scripts| ![](https://img.shields.io/github/stars/koalaman/shellcheck)
-|2.|[netdata](https://github.com/netdata/netdata)|Real-time performance monitoring, done right!| ![](https://img.shields.io/github/stars/netdata/netdata)
-|||||
-
 <br><br>7.  🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
