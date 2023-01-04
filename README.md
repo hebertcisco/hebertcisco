@@ -95,9 +95,6 @@
 ### 10. Cloud Computing
 
 - AWS
-- Azure
-- IBM Cloud
-- Google Cloud
 - Heroku
 - Vercel
 - Netlify
