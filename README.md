@@ -20,13 +20,14 @@
 
 - [x] **JavaScript** - Main language<br>
 - [x] **TypeScript** - Main too<br>
+- [x] **PHP** - I learned in high school and went back to actively using...<br>
 - [x] **Java** - Secondary language<br>
 - [x] **Kotlin** - Other secondary too<br>
 - [x] **Python** - Reserve language<br>
 - [x] **C#** - Language I admire for strong typing<br>
 - [x] **C++** - Learned in college<br>
 - [x] **C** - Learned in college<br>
-- [x] **PHP** - I learned but didn't use it much...<br>
+- [x] **Rust** - I start learning...<br>
 
 ### 1. Microservice development
 
@@ -41,6 +42,7 @@
 - Denojs - Other JavaScript runtime environment.
 - Express.js - Node.js web application framework.
 - Nestjs - Node.js framework for building efficient, scalable, and enterprise-grade server-side applications.
+- Laravel - The PHP Framework for Web Artisans
 
 ### 3. Web Development
 
@@ -51,6 +53,7 @@
 - Next.js - React framework for production.
 - Solid.js - JavaScript library for building user interfaces.
 - WebAssembly(Wasm) - binary instruction format for a stack-based virtual machine.
+- Laravel (Blade)- The PHP Framework for Web Artisans
 
 ### 4. Mobile Development (Hobby)
 
@@ -87,7 +90,6 @@
 
 ### 9. Virtualization
 
-- Docker
 - WSL2
 - VirtualBox
 - VMware
@@ -113,9 +115,10 @@
 ### 14. Testing
 
 - Jest
-- Japa
-- Cypress
 - CodeCov
+- Cucumber(jest-cucumber)
+- Gherkin
+- Native(Node.js)
 
 ### 15. Design Patterns
 
@@ -134,6 +137,7 @@
 - DDD
 - SOLID
 - Clean Architecture
+- Hexagonal Architecture
 
 ### 17. Software Engineering
 
@@ -145,12 +149,12 @@
 
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
 -- | -- | -- | -- | -- | -- |
-| 0 | [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) | ![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | Screen Stream Android app | ![]([https://img.shields.io/badge/Java-ED8B00?style=flat&logo=Java&logoColor=white](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)) | ![](https://img.shields.io/github/stars/dkrivoruchko/ScreenStream)
 | 1 | [vercel-typescript-rest-api](https://github.com/hebertcisco/vercel-typescript-rest-api) | ![](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | REST API example to deploy in Vercel(Typescript, Express. MongoDB) | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/vercel-typescript-rest-api)
 | 2 | [ts-npm-package-boilerplate](https://github.com/hebertcisco/ts-npm-package-boilerplate) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | TypeScript NPM Module Boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/ts-npm-package-boilerplate)
 | 3 | [instabot-core](https://github.com/hebertcisco/instabot-core) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | Instagram comment generator robot | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/instabot-core)
 | 4 | [pensador-api](https://github.com/hebertcisco/pensador-api) | ![](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | Portuguese phrases API. | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/pensador-api)
-| 5 | [nestjs-minimal-boilerplate](https://github.com/hebertcisco/nestjs-minimal-boilerplate) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | Nestjs minimal API boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/nestjs-minimal-boilerplate)
+| 5 | [nestjs-microservices-rabbitmq](https://github.com/hebertcisco/nestjs-microservices-rabbitmq) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | A simple microservice implementation using Nest JS and RabbitMQ | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/nestjs-microservices-rabbitmq)
+| 6 | [deploy-python-fastapi-in-vercel](https://github.com/hebertcisco/deploy-python-fastapi-in-vercel) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | This example shows how to use FastApi on Vercel with Serverless Functions using the Python Runtime | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/deploy-python-fastapi-in-vercel)
 |  | |  |  |  | |
 
 <br><br>7.  🗣️ **LANGUAGES**<br>
@@ -174,13 +178,10 @@
 
 <br>
 
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hebertcisco&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&langs_count=5&theme=tokyonight)]()
--->
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hebertcisco&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=hebertcisco&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertcisco&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 
 <br>
