@@ -43,30 +43,28 @@
 - Express.js - Node.js web application framework.
 - Nestjs - Node.js framework for building efficient, scalable, and enterprise-grade server-side applications.
 - Laravel - The PHP Framework for Web Artisans
+- Serverless Framework(with AWS provider)
 
 ### 3. Web Development
 
 - Vanilla - HTML, CSS, JavaScript.
 - React.js - JavaScript library for building user interfaces.
 - Angular - TypeScript-based open-source web application framework.
-- Svelte - JavaScript framework for building user interfaces.
 - Next.js - React framework for production.
-- Solid.js - JavaScript library for building user interfaces.
-- WebAssembly(Wasm) - binary instruction format for a stack-based virtual machine.
 - Laravel (Blade)- The PHP Framework for Web Artisans
 
 ### 4. Mobile Development (Hobby)
 
 - React Native - JavaScript framework for building native apps for Android and iOS.
 - Native Android - Java/Kotlin.
+- Native Android - Compose(Kotlin).
 - Ionic - Hybrid mobile app development framework.
+- Flutter - beautiful, natively compiled, multi-platform applications from a single codebase.
 
 ### 5. CLI Development
 
 - Node.js - With commander and inquirer.
-- C# - With Spectre.Console.
-- C++ - With CLI11.
-- Java - With JCommander.
+- PHP - Artisan(Laravel)
 
 ### 6. Shell Scripting
 
@@ -80,6 +78,7 @@
 - Oracle
 - MongoDB
 - SQLite
+ - DynamoDB
 
 ### 8. Operating Systems
 
@@ -119,6 +118,8 @@
 - Cucumber(jest-cucumber)
 - Gherkin
 - Native(Node.js)
+- PHPUnit
+- JUnit(android)
 
 ### 15. Design Patterns
 
