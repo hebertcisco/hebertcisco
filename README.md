@@ -179,8 +179,6 @@
 
 <br>
 
-***
-
 ## Show your support
 
 Give a ⭐️ in my projects!
