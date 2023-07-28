@@ -25,9 +25,9 @@
 - [x] **Kotlin** - Other secondary too<br>
 - [x] **Python** - Reserve language<br>
 - [x] **C#** - Language I admire for strong typing<br>
-- [x] **C++** - Learned in college<br>
-- [x] **C** - Learned in college<br>
-- [x] **Rust** - I start learning...<br>
+- [x] **C++** - Learned basics in college<br>
+- [x] **C** - Learned basics in college<br>
+- [ ] **Rust** - I start learning...<br>
 
 ### 1. Microservice development
 
