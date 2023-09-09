@@ -18,93 +18,94 @@
 
 ### 0. **LANGUAGES**<br>
 
-- [x] **JavaScript** - Main language<br>
-- [x] **TypeScript** - Main too<br>
-- [x] **PHP** - I learned in high school and went back to actively using...<br>
+- [x] **JavaScript** - Main language<br> [active-use]
+- [x] **TypeScript** - Main too<br> [active-use]
+- [x] **PHP** - I learned in high school and went back to actively using...<br> [active-use]
 - [x] **Java** - Secondary language<br>
-- [x] **Kotlin** - Other secondary too<br>
-- [x] **Python** - Reserve language<br>
+- [x] **Kotlin** - Other secondary too<br> [active-use]
+- [x] **Python** - Reserve language<br> 
 - [x] **C#** - Language I admire for strong typing<br>
 - [x] **C++** - Learned basics in college<br>
 - [x] **C** - Learned basics in college<br>
 - [ ] **Rust** - I start learning...<br>
+- [ ] **GO** - I start learning...<br>
 
 ### 1. Microservice development
 
-- Redis - publish/subscribe messaging paradigm.
-- RabbitMQ - message broker.
+- Redis - publish/subscribe messaging paradigm. [active-use]
+- RabbitMQ - message broker. [active-use]
 - Apache Kafka - distributed streaming platform.
 - gRPC - high performance, open source universal RPC framework.
 
 ### 2. Backend Development
 
-- Nodejs - My principal JavaScript runtime environment.
-- Denojs - Other JavaScript runtime environment.
-- Express.js - Node.js web application framework.
-- Nestjs - Node.js framework for building efficient, scalable, and enterprise-grade server-side applications.
-- Laravel - The PHP Framework for Web Artisans
-- Serverless Framework(with AWS provider)
+- Nodejs - My principal JavaScript runtime environment. [active-use]
+- Denojs - Other JavaScript runtime environment. 
+- Express.js - Node.js web application framework. [active-use]
+- Nestjs - Node.js framework for building efficient, scalable, and enterprise-grade server-side applications. [active-use]
+- Laravel - The PHP Framework for Web Artisans [active-use]
+- Serverless Framework(with AWS provider) [active-use]
 
 ### 3. Web Development
 
-- Vanilla - HTML, CSS, JavaScript.
-- React.js - JavaScript library for building user interfaces.
+- Vanilla - HTML, CSS, JavaScript. [active-use]
+- React.js - JavaScript library for building user interfaces. [active-use]
 - Angular - TypeScript-based open-source web application framework.
-- Next.js - React framework for production.
-- Laravel (Blade)- The PHP Framework for Web Artisans
+- Next.js - React framework for production. [active-use]
+- Laravel (Blade)- The PHP Framework for Web Artisans [active-use]
 
 ### 4. Mobile Development (Hobby)
 
-- React Native - JavaScript framework for building native apps for Android and iOS.
-- Native Android - Java/Kotlin.
-- Native Android - Compose(Kotlin).
-- Ionic - Hybrid mobile app development framework.
-- Flutter - beautiful, natively compiled, multi-platform applications from a single codebase.
+- React Native - JavaScript framework for building native apps for Android and iOS. [active-use]
+- Native Android - Java/Kotlin. [active-use]
+- Native Android - Compose(Kotlin). [active-use]
+- Ionic - Hybrid mobile app development framework.  [stopped-using]
+- Flutter - beautiful, natively compiled, multi-platform applications from a single codebase. [active-use]
 
 ### 5. CLI Development
 
-- Node.js - With commander and inquirer.
-- PHP - Artisan(Laravel)
+- Node.js - With commander and inquirer. [active-use]
+- PHP - Artisan(Laravel) [active-use]
 
 ### 6. Shell Scripting
 
-- Bash programming.
+- Bash programming. [active-use]
 - Powershell programming.
 
 ### 7. Databases
 
-- Postgres.
-- MySQL
+- Postgres. [active-use]
+- MySQL [active-use]
 - Oracle
-- MongoDB
-- SQLite
- - DynamoDB
+- MongoDB [active-use]
+- SQLite [active-use]
+ - DynamoDB [active-use]
 
 ### 8. Operating Systems
 
-- Linux Ubuntu (Main),
+- Linux Ubuntu (Main) [active-use], 
 - Linux Kali (PenTest),
-- Linux Alpine (Docker images),
-- Windows 11 - For gaming and some development tools.
+- Linux Alpine (Docker images) [active-use],
+- Windows 11 - For gaming and some development tools. 
 
 ### 9. Virtualization
 
-- WSL2
+- WSL2 
 - VirtualBox
 - VMware
 
 ### 10. Cloud Computing
 
-- AWS
+- AWS [active-use]
 - Heroku
-- Vercel
+- Vercel [active-use]
 - Netlify
 
 ### 11. CI/CD
-
+ 
 - Travis CI
-- Circle CI
-- GitHub Actions
+- Circle CI [active-use]
+- GitHub Actions [active-use]
 - GitLab CI/CD
 
 ### 13. Version Control
