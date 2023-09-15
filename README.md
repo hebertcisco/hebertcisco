@@ -9,7 +9,6 @@
 
 &emsp;&emsp;&emsp;**Full Name**&emsp;&emsp;&nbsp;&nbsp;: Hebert Francisco <br>
 &emsp;&emsp;&emsp;**Specialty**&emsp;&emsp;&emsp;: Backend Software Engineer <br>
-&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;&emsp;&nbsp;: He/Him/His <br>
 &emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Brazil 🇧🇷<br>
 
 ## 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
@@ -23,10 +22,12 @@
 - [x] **PHP** - I learned in high school and went back to actively using...<br> [active-use]
 - [x] **Java** - Secondary language<br>
 - [x] **Kotlin** - Other secondary too<br> [active-use]
-- [x] **Python** - Reserve language<br> 
+- [x] **Python** - Reserve language<br> [active-use]
+
 - [x] **C#** - Language I admire for strong typing<br>
 - [x] **C++** - Learned basics in college<br>
 - [x] **C** - Learned basics in college<br>
+
 - [ ] **Rust** - I start learning...<br>
 - [ ] **GO** - I start learning...<br>
 
@@ -163,13 +164,11 @@
 |-|-|-|
 | Portuguese | Native | N/A |
 | English | Basic/Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/euhebertbarros) |
-| French | Basic | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/euhebertbarros)
-| Spanish | Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/euhebertbarros) |
+| Spanish | Basic | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/euhebertbarros) |
 ||||
 
 <br><br>8. #️⃣ **REACH ME**<br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecnobertinfo@gmail.com) &emsp;
 [![LinkedIn - Hebert Cisco](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-f-barros/)&emsp;&emsp;
 
 ## 9. #️ 📖 **Articles and Posts**<br>
