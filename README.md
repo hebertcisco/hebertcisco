@@ -1,4 +1,4 @@
-| [![Hebert Cisco](https://img.shields.io/badge/HB-HEBERT%20CISCO-blue)](#) | [![Followers](https://img.shields.io/github/followers/hebertcisco)](#) | [![Stars](https://img.shields.io/github/stars/hebertcisco?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=hebertcisco&color=red)](#) |
+| [![Hebert Cisco](https://img.shields.io/badge/HB-HEBERT%20CISCO-blue)](#) | [![Followers](https://img.shields.io/github/followers/hebertcisco)](#Followers) | [![Stars](https://img.shields.io/github/stars/hebertcisco?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#ProfileStars) | [![Profile Views](https://komarev.com/ghpvc/?username=hebertcisco&color=red)](#ProfileViews) |
 --| --| --| --|
 
 <br>
