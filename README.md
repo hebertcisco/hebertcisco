@@ -9,3 +9,5 @@
 | 4 | [nestjs-microservices-rabbitmq](https://github.com/hebertcisco/nestjs-microservices-rabbitmq) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | A simple microservice implementation using Nest JS and RabbitMQ | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/nestjs-microservices-rabbitmq)
 | 5 | [deploy-python-fastapi-in-vercel](https://github.com/hebertcisco/deploy-python-fastapi-in-vercel) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | This example shows how to use FastApi on Vercel with Serverless Functions using the Python Runtime | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/deploy-python-fastapi-in-vercel)
 |  | |  |  |  | |
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645ff158d37a0a94f7273f18?variant=dark&roadmaps=backend%2Cfrontend%2Creact-native%2Cdevops)](https://roadmap.sh)
