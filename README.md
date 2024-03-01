@@ -1,13 +1,2 @@
 | [![Hebert Cisco](https://img.shields.io/badge/HB-HEBERT%20CISCO-blue)](#) | [![Followers](https://img.shields.io/github/followers/hebertcisco)](#Followers) | [![Stars](https://img.shields.io/github/stars/hebertcisco?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#ProfileStars) | [![Profile Views](https://komarev.com/ghpvc/?username=hebertcisco&color=red)](#ProfileViews) |
 --| --| --| --|
-
-| # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
--- | -- | -- | -- | -- | -- |
-| 1 | [vercel-typescript-rest-api](https://github.com/hebertcisco/vercel-typescript-rest-api) | ![](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | REST API example to deploy in Vercel(Typescript, Express. MongoDB) | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/vercel-typescript-rest-api)
-| 2 | [ts-npm-package-boilerplate](https://github.com/hebertcisco/ts-npm-package-boilerplate) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | TypeScript NPM Module Boilerplate | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/ts-npm-package-boilerplate)
-| 3 | [pensador-api](https://github.com/hebertcisco/pensador-api) | ![](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | Portuguese phrases API. | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/pensador-api)
-| 4 | [nestjs-microservices-rabbitmq](https://github.com/hebertcisco/nestjs-microservices-rabbitmq) | ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | A simple microservice implementation using Nest JS and RabbitMQ | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/nestjs-microservices-rabbitmq)
-| 5 | [deploy-python-fastapi-in-vercel](https://github.com/hebertcisco/deploy-python-fastapi-in-vercel) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | This example shows how to use FastApi on Vercel with Serverless Functions using the Python Runtime | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/hebertcisco/deploy-python-fastapi-in-vercel)
-|  | |  |  |  | |
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645ff158d37a0a94f7273f18?variant=dark&roadmaps=backend%2Cfrontend%2Creact-native%2Cdevops)](https://roadmap.sh)
