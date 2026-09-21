@@ -1,0 +1,89 @@
+schema_version: 1
+theme: modern
+locale: pt-BR
+target_role: Desenvolvedor Sênior de IA Generativa / Full Stack
+basics:
+  name: Hebert Francisco Barros
+  headline: Desenvolvedor Sênior de IA Generativa & Full Stack
+  summary: >-
+    Desenvolvedor de Software Sênior com mais de 8 anos de experiência na
+    construção de produtos digitais end-to-end e liderança de iniciativas de
+    IA. Combina IA generativa, integrações com LLMs e MCP, Node.js, Next.js,
+    React, Python e FastAPI para criar aplicações inteligentes e fluxos de
+    desenvolvimento assistido por IA.
+  links:
+    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
+    - { label: GitHub, url: "https://github.com/hebertcisco" }
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Analista de Sistemas Sênior
+    start_date: 2026-08-19
+    end_date: Present
+    highlights:
+      - Lidera iniciativas de IA generativa, integrando LLMs e servidores MCP a produtos e processos internos de engenharia.
+      - Aplica práticas de desenvolvimento assistido por IA para apoiar entregas em sistemas mobile, backend e frontend.
+      - Responde tecnicamente por funcionalidades estratégicas e implementações de grande porte em um ecossistema financeiro de alta criticidade.
+      - Lidera a evolução de soluções full stack e incorpora práticas de segurança da informação ao ciclo de desenvolvimento.
+      - Orienta novos profissionais e trainees, gerencia tarefas no Jira e estrutura trilhas de estudos.
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Desenvolvedor FullStack Sênior
+    start_date: 2023-03
+    end_date: 2026-08-18
+    highlights:
+      - Entregou produtos end-to-end com React.js, Node.js e Laravel, da concepção à manutenção em produção.
+      - Desenvolveu serviços e integrações financeiras em um ecossistema de pagamentos de alta criticidade.
+      - Integrou APIs bancárias, BaaS, Google Wallet e Apple Pay com foco em confiabilidade e escalabilidade.
+      - Manteve pipelines de CI/CD, versionamento e deploy automatizado.
+  - company: Nagro Crédito Agro
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu um sistema de risco de crédito B2C e aplicações internas com Node.js e MongoDB.
+      - Migrou um backoffice legado em Python para Node.js, introduzindo testes automatizados e boas práticas.
+      - Construiu soluções serverless de web scraping integradas à AWS.
+  - company: AYT1.DEV
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu microsserviços para healthtech com NestJS, TypeScript, PostgreSQL, Redis, RabbitMQ e SNS.
+      - Implementou autenticação com Keycloak e persistência com TypeORM.
+  - company: Pagprime Bank
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiânia, BR
+    highlights:
+      - Liderou uma migração de monolito para microsserviços e integrou APIs bancárias, Open Banking e TEF.
+  - company: Anbetec Tecnologia
+    position: Desenvolvedor de Software Junior
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiânia, BR
+    highlights:
+      - Construiu APIs Node.js, interfaces React e funcionalidades web integradas ao Oracle SQL.
+education:
+  - { institution: Pontifícia Universidade Católica do Paraná, area: Análise e Desenvolvimento de Sistemas, study_type: Graduação, end_date: Present, location: "Curitiba, PR" }
+  - { institution: Centro de Ensino Santa Rita De Cássia, area: Informática, study_type: Técnico, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+skills:
+  - { category: IA Generativa, items: [Integração com LLMs, Servidores MCP, Desenvolvimento Assistido por IA, Aplicações Inteligentes] }
+  - { category: JavaScript & Web, items: [Node.js, TypeScript, NestJS, React.js, Next.js] }
+  - { category: Python, items: [Python, FastAPI, Flask, Web Scraping] }
+  - { category: Arquitetura & Dados, items: [APIs REST, Microsserviços, PostgreSQL, MongoDB, Redis, RabbitMQ] }
+  - { category: Cloud & Entrega, items: [AWS, Docker, Kubernetes, GitHub Actions, CI/CD] }
+  - { category: Práticas de Engenharia, items: [Clean Architecture, DDD, SOLID, TDD/BDD, Segurança da Informação] }
+certifications:
+  - { name: IA Essencial, issuer: Pontifícia Universidade Católica do Paraná, date: 2025-09 }
+  - { name: Análise de Dados e Inteligência de Negócios, issuer: GRAN, date: 2025-11 }
+  - { name: Computação em Nuvem, issuer: Estácio, date: 2025-09 }
+languages:
+  - { name: Português, fluency: Nativo }
+  - { name: Inglês, fluency: Proficiência profissional }
+  - { name: Espanhol, fluency: Elementar }
+awards:
+  - { title: Liderança em IA, summary: "Integração de LLMs e servidores MCP a produtos e processos internos de engenharia." }
+  - { title: Produtos End-to-End, summary: "Entrega full stack em web, backend, mobile, cloud e CI/CD." }
+  - { title: Modernização de Legado, summary: "Migrações críticas de monolito para microsserviços e de Python para Node.js." }
