@@ -51,3 +51,31 @@ jobs:
           name: resume-${{ matrix.resume }}
           path: ${{ steps.resumec.outputs.output-dir }}
           if-no-files-found: error
+
+  release:
+    needs: [discover, resume]
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download built resumes
+        uses: actions/download-artifact@v7
+        with:
+          path: dist
+
+      # Flattens artifacts into unique filenames since each resume shares the same output names.
+      - name: Flatten release assets
+        run: |
+          mkdir -p release-assets
+          find dist -type f | while read -r file; do
+            resume=$(basename "$(dirname "$file")" | sed 's/^resume-//')
+            cp "$file" "release-assets/${resume}-$(basename "$file")"
+          done
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: latest-resumes
+          name: Latest resumes
+          files: release-assets/*
