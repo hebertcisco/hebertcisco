@@ -1,0 +1,54 @@
+name: Build resume
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - resumes/**
+  pull_request:
+    paths:
+      - resumes/**
+
+permissions:
+  contents: read
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.list.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v7
+
+      # Discovers every resume file so new resumes are picked up automatically.
+      - name: List resumes
+        id: list
+        run: |
+          files=$(find resumes -maxdepth 1 -name '*.yaml' -printf '%f\n' | sed 's/\.yaml$//' | sort | jq -R -s -c 'split("\n")[:-1]')
+          echo "matrix=$files" >> "$GITHUB_OUTPUT"
+
+  resume:
+    needs: discover
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        resume: ${{ fromJson(needs.discover.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Build resume
+        id: resumec
+        uses: hebertcisco/resumec-action@v1
+        with:
+          input: resumes/${{ matrix.resume }}.yaml
+          format: both
+          theme: modern
+          output-dir: dist/${{ matrix.resume }}
+
+      - name: Upload generated files
+        uses: actions/upload-artifact@v7
+        with:
+          name: resume-${{ matrix.resume }}
+          path: ${{ steps.resumec.outputs.output-dir }}
+          if-no-files-found: error
