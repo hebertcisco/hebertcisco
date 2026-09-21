@@ -39,7 +39,7 @@ jobs:
 
       - name: Build resume
         id: resumec
-        uses: hebertcisco/resumec-action@v1
+        uses: hebertcisco/resumec-action@v0.1.0
         with:
           input: resumes/${{ matrix.resume }}.yaml
           format: both
