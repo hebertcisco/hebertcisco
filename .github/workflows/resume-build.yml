@@ -36,6 +36,25 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
+      # Derives the output file name from basics.name (e.g. "Hebert Barros" -> "hebert_barros").
+      - name: Extract resume owner name
+        id: person
+        env:
+          RESUME_FILE: resumes/${{ matrix.resume }}.yaml
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import os, re, unicodedata
+
+          with open(os.environ["RESUME_FILE"], encoding="utf-8") as f:
+              text = f.read()
+
+          match = re.search(r"^\s*name:\s*(.+)$", text, re.MULTILINE)
+          name = match.group(1).strip()
+          normalized = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+          snake = re.sub(r"[^a-z0-9]+", "_", normalized.lower()).strip("_")
+          print(f"snake_name={snake}")
+          PY
+
       - name: Build resume
         id: resumec
         uses: hebertcisco/resumec-action@v1.0.0
@@ -44,6 +63,7 @@ jobs:
           format: pdf
           theme: modern
           output-dir: dist/${{ matrix.resume }}
+          output-name: ${{ steps.person.outputs.snake_name }}
 
       - name: Upload generated files
         uses: actions/upload-artifact@v7
