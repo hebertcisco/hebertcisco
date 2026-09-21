@@ -32,7 +32,7 @@ jobs:
               path = file.relative_to("resumes").with_suffix("").as_posix()
               entries.append({"path": path, "slug": path.replace("/", "-")})
 
-          print("matrix=" + json.dumps({"include": entries}, separators=(",", ":")))
+          print("matrix=" + json.dumps({"resume": entries}, separators=(",", ":")))
           PY
 
   resume:
@@ -49,7 +49,7 @@ jobs:
       - name: Extract resume owner name
         id: person
         env:
-          RESUME_FILE: resumes/${{ matrix.path }}.yaml
+          RESUME_FILE: resumes/${{ matrix.resume.path }}.yaml
         run: |
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
           import os, re, unicodedata
@@ -68,16 +68,16 @@ jobs:
         id: resumec
         uses: hebertcisco/resumec-action@v1.0.0
         with:
-          input: resumes/${{ matrix.path }}.yaml
+          input: resumes/${{ matrix.resume.path }}.yaml
           format: pdf
           theme: modern
-          output-dir: dist/${{ matrix.slug }}
+          output-dir: dist/${{ matrix.resume.slug }}
           output-name: ${{ steps.person.outputs.snake_name }}
 
       - name: Upload generated files
         uses: actions/upload-artifact@v7
         with:
-          name: resume-${{ matrix.slug }}
+          name: resume-${{ matrix.resume.slug }}
           path: ${{ steps.resumec.outputs.output-dir }}
           if-no-files-found: error
 
