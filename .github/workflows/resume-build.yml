@@ -19,12 +19,21 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      # Discovers every resume file so new resumes are picked up automatically.
+      # Discovers every resume recursively and creates slash-free artifact names.
       - name: List resumes
         id: list
         run: |
-          files=$(find resumes -maxdepth 1 -name '*.yaml' -printf '%f\n' | sed 's/\.yaml$//' | sort | jq -R -s -c 'split("\n")[:-1]')
-          echo "matrix=$files" >> "$GITHUB_OUTPUT"
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from pathlib import Path
+
+          entries = []
+          for file in sorted(Path("resumes").rglob("*.yaml")):
+              path = file.relative_to("resumes").with_suffix("").as_posix()
+              entries.append({"path": path, "slug": path.replace("/", "-")})
+
+          print("matrix=" + json.dumps({"include": entries}, separators=(",", ":")))
+          PY
 
   resume:
     needs: discover
@@ -40,7 +49,7 @@ jobs:
       - name: Extract resume owner name
         id: person
         env:
-          RESUME_FILE: resumes/${{ matrix.resume }}.yaml
+          RESUME_FILE: resumes/${{ matrix.path }}.yaml
         run: |
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
           import os, re, unicodedata
@@ -59,16 +68,16 @@ jobs:
         id: resumec
         uses: hebertcisco/resumec-action@v1.0.0
         with:
-          input: resumes/${{ matrix.resume }}.yaml
+          input: resumes/${{ matrix.path }}.yaml
           format: pdf
           theme: modern
-          output-dir: dist/${{ matrix.resume }}
+          output-dir: dist/${{ matrix.slug }}
           output-name: ${{ steps.person.outputs.snake_name }}
 
       - name: Upload generated files
         uses: actions/upload-artifact@v7
         with:
-          name: resume-${{ matrix.resume }}
+          name: resume-${{ matrix.slug }}
           path: ${{ steps.resumec.outputs.output-dir }}
           if-no-files-found: error
 
