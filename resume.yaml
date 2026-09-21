@@ -1,0 +1,185 @@
+schema_version: 1
+theme: modern
+locale: pt-BR
+target_role: Desenvolvedor FullStack Sênior
+basics:
+  name: Hebert Francisco Barros
+  headline: Desenvolvedor FullStack Sênior
+  summary: >-
+    Desenvolvedor Sênior com experiência em fintechs e healthtech, especialista
+    em integrações financeiras e arquitetura de microsserviços.
+  links:
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/hebert-f-barros
+    - label: GitHub
+      url: https://github.com/hebertcisco
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Desenvolvedor FullStack Sênior
+    start_date: 2023-03
+    end_date: Present
+    location: Goiânia, BR
+    highlights:
+      - >-
+        Principal desenvolvedor mobile responsável pela arquitetura, CI/CD, design
+        e ciclo de vida de 24 aplicativos (22 em produção) Android e iOS no modelo
+        AaaS (Acquiring as a Service).
+      - >-
+        Projetos full stack end-to-end (Web, Backend e Mobile) com React.js,
+        React Native, Laravel e Node.js, da concepção à manutenção.
+      - >-
+        Implementação e manutenção de pipelines de CI/CD, versionamento e deploy
+        automatizado para entrega contínua.
+      - >-
+        Integrações com APIs bancárias e de pagamentos, incluindo Google Wallet,
+        Apple Pay e BaaS, com foco em robustez e escalabilidade.
+  - company: Nagro Crédito Agro
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlândia, BR
+    highlights:
+      - >-
+        Desenvolvimento e manutenção do sistema de risco de crédito (B2C) e do
+        backend de aplicações internas com Node.js e MongoDB.
+      - >-
+        Migração do backoffice de Python para Node.js, com testes automatizados e
+        boas práticas de desenvolvimento.
+      - >-
+        Projetos de web scraping serverless integrados a AWS para suporte e
+        integração de times.
+  - company: AYT1.DEV
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlândia, BR
+    highlights:
+      - >-
+        Desenvolvimento do HUBAID, aplicação médica com múltiplos serviços e
+        integrações de backend.
+      - >-
+        Stack NestJS com Node.js (TypeScript), Postgres, Redis, RabbitMQ e SNS.
+      - >-
+        Autenticação com Keycloak e bibliotecas customizadas para o fluxo de
+        trabalho.
+      - >-
+        Ambientes de desenvolvimento e testes com SwarmPit e TypeORM para
+        mapeamento objeto-relacional.
+  - company: Pagprime Bank
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiânia, BR
+    highlights:
+      - Foco em integrações de API e desenvolvimento de serviços internos.
+      - >-
+        Migração de monolito para microsserviços e criação de ferramentas internas
+        para otimizar o desenvolvimento.
+      - >-
+        Integrações com APIs bancárias e sistemas de pagamento, incluindo
+        terminais TEF e Open Banking.
+  - company: Anbetec Tecnologia
+    position: Desenvolvedor de Software Junior
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiânia, BR
+    highlights:
+      - >-
+        Desenvolvimento web com foco em JavaScript e banco de dados Oracle SQL.
+      - Desenvolvimento de APIs com Node.js e interfaces iniciais com React.
+education:
+  - institution: Pontifícia Universidade Católica do Paraná
+    area: Análise e Desenvolvimento de Sistemas
+    study_type: Graduação
+    end_date: Present
+    location: Curitiba, PR
+  - institution: Centro de Ensino Santa Rita De Cássia
+    area: Informática
+    study_type: Técnico
+    start_date: 2018
+    end_date: 2020
+    location: Palmas, TO
+skills:
+  - category: Back-end
+    items:
+      - Node.js (Express, NestJS)
+      - Bun.js
+      - Deno
+      - PHP (Laravel, Symfony, Yii)
+      - Python (FastAPI, Flask)
+      - Golang (Gin)
+      - Java/Kotlin (Spring Boot)
+  - category: Frontend
+    items:
+      - HTML
+      - CSS
+      - JavaScript
+      - React.js
+      - Next.js
+      - Livewire
+      - WordPress
+  - category: Mobile
+    items:
+      - Android nativo (Java, Kotlin)
+      - iOS nativo (Swift)
+      - React Native
+      - Expo
+      - Publicação nas lojas
+  - category: Banco de Dados
+    items:
+      - MongoDB
+      - PostgreSQL
+      - MySQL
+      - Oracle SQL
+      - Redis
+      - DynamoDB
+  - category: Cloud & DevOps
+    items:
+      - AWS (SNS, S3, SQS, Lambda, Step Functions)
+      - Cloudflare
+      - RabbitMQ
+      - Docker/SwarmPit
+      - CI/CD (GitHub Actions, CircleCI, Jenkins)
+      - Kubernetes
+  - category: Arquitetura & Práticas
+    items:
+      - Clean Architecture
+      - DDD
+      - SOLID
+      - TDD/BDD (Cucumber)
+      - Metodologias Ágeis
+      - SEO
+      - Design Patterns
+certifications:
+  - name: Análise de Dados e Inteligência de Negócios
+    issuer: GRAN
+    date: 2025-11
+  - name: IA Essencial
+    issuer: Pontifícia Universidade Católica do Paraná
+    date: 2025-09
+  - name: Computação em Nuvem
+    issuer: Estácio
+    date: 2025-09
+languages:
+  - name: Português
+    fluency: Nativo
+  - name: English
+    fluency: Professional working proficiency
+  - name: Español
+    fluency: Elementar
+awards:
+  - title: Dezenas de apps
+    summary: >-
+      Gestão de ciclo de vida de dezenas de apps em produção no modelo White-Label (AaaS).
+  - title: Modernização de Legado
+    summary: >-
+      Execução de 2 migrações críticas de arquitetura (monolito para microsserviços
+      e Python para Node.js).
+  - title: Ecossistema Fintech
+    summary: >-
+      Integração com operações bancárias e meios de pagamento, incluindo PIX, TED,
+      boletos, Google/Apple Pay, Open Banking, POS e TEF.
+  - title: DevOps & Automação
+    summary: >-
+      Implementação de 100% de automação em pipelines CI/CD para entrega contínua
+      e versionamento.
