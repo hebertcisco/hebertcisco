@@ -1,0 +1,68 @@
+schema_version: 1
+theme: modern
+locale: en-US
+target_role: Senior Backend Developer - Java / Kotlin / Spring Boot
+basics:
+  name: Hebert Francisco Barros
+  headline: Senior Software Developer | Java, Kotlin, and Spring Boot
+  summary: >-
+    Senior Software Developer with 8+ years of experience in financial systems,
+    APIs, and microservices, with knowledge of Java, Kotlin, and Spring Boot and
+    hands-on experience building native Android integrations.
+  links:
+    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
+    - { label: GitHub, url: "https://github.com/hebertcisco" }
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Senior FullStack Developer
+    start_date: 2023-03
+    end_date: Present
+    location: Goiania, BR
+    highlights:
+      - Develops end-to-end financial products and native Android integrations with Java and Kotlin.
+      - Integrates banking APIs, BaaS, Google Wallet, and Apple Pay.
+      - Maintains architecture, CI/CD, and lifecycle management for dozens of production applications.
+  - company: Nagro Credito Agro
+    position: Mid-level Backend Software Developer
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlandia, BR
+    highlights:
+      - Developed credit risk systems and serverless solutions integrated with AWS.
+  - company: AYT1.DEV
+    position: Mid-level Backend Software Developer
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlandia, BR
+    highlights:
+      - Developed microservices with PostgreSQL, Redis, RabbitMQ, SNS, and Keycloak.
+  - company: Pagprime Bank
+    position: Mid-level Backend Software Developer
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiania, BR
+    highlights:
+      - Led a monolith-to-microservices migration and integrated banking APIs and Open Banking.
+  - company: Anbetec Tecnologia
+    position: Junior Software Developer
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiania, BR
+    highlights:
+      - Developed APIs and web features integrated with Oracle SQL.
+education:
+  - { institution: Pontificia Universidade Catolica do Parana, area: Systems Analysis and Development, study_type: Bachelor's Degree, end_date: Present, location: "Curitiba, PR" }
+  - { institution: Centro de Ensino Santa Rita De Cassia, area: Information Technology, study_type: Technical Degree, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+skills:
+  - { category: Java & Kotlin, items: [Java, Kotlin, Spring Boot, Native Android] }
+  - { category: Backend Architecture, items: [REST APIs, Microservices, Clean Architecture, DDD, SOLID, Design Patterns] }
+  - { category: Data & Messaging, items: [PostgreSQL, MySQL, Oracle SQL, Redis, RabbitMQ] }
+  - { category: Cloud & DevOps, items: [AWS, Docker, Kubernetes, GitHub Actions, Jenkins] }
+  - { category: Additional Knowledge, items: [Node.js, NestJS, PHP, Laravel, Python, Golang] }
+languages:
+  - { name: Portuguese, fluency: Native }
+  - { name: English, fluency: Professional working proficiency }
+  - { name: Spanish, fluency: Elementary }
+awards:
+  - { title: Legacy Modernization, summary: "Migration from monolithic architecture to microservices." }
+  - { title: Fintech Ecosystem, summary: "Banking, wallet, Open Banking, POS, and TEF integrations." }

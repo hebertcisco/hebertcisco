@@ -1,0 +1,70 @@
+schema_version: 1
+theme: modern
+locale: en-US
+target_role: Senior Backend Developer - Python / FastAPI
+basics:
+  name: Hebert Francisco Barros
+  headline: Senior Software Developer | Python and FastAPI
+  summary: >-
+    Senior Software Developer with 8+ years of experience in APIs, financial
+    integrations, and microservices, with knowledge of Python, FastAPI, and
+    Flask and experience modernizing backend systems.
+  links:
+    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
+    - { label: GitHub, url: "https://github.com/hebertcisco" }
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Senior FullStack Developer
+    start_date: 2023-03
+    end_date: Present
+    location: Goiania, BR
+    highlights:
+      - Delivers services and financial integrations in a mission-critical payment ecosystem.
+      - Integrates banking APIs, BaaS, Google Wallet, and Apple Pay with a focus on scalability.
+      - Maintains CI/CD, versioning, and automated deployment pipelines.
+  - company: Nagro Credito Agro
+    position: Mid-level Backend Software Developer
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlandia, BR
+    highlights:
+      - Migrated a legacy Python backoffice to Node.js, introducing tests and development practices.
+      - Developed serverless web scraping solutions integrated with AWS.
+      - Maintained B2C credit risk systems and internal applications.
+  - company: AYT1.DEV
+    position: Mid-level Backend Software Developer
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlandia, BR
+    highlights:
+      - Developed microservices with PostgreSQL, Redis, RabbitMQ, SNS, and Keycloak.
+  - company: Pagprime Bank
+    position: Mid-level Backend Software Developer
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiania, BR
+    highlights:
+      - Led a monolith-to-microservices migration and integrated banking APIs.
+  - company: Anbetec Tecnologia
+    position: Junior Software Developer
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiania, BR
+    highlights:
+      - Developed APIs and web features integrated with Oracle SQL.
+education:
+  - { institution: Pontificia Universidade Catolica do Parana, area: Systems Analysis and Development, study_type: Bachelor's Degree, end_date: Present, location: "Curitiba, PR" }
+  - { institution: Centro de Ensino Santa Rita De Cassia, area: Information Technology, study_type: Technical Degree, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+skills:
+  - { category: Python, items: [Python, FastAPI, Flask, Web Scraping] }
+  - { category: Backend Architecture, items: [REST APIs, Microservices, Clean Architecture, DDD, SOLID, TDD/BDD] }
+  - { category: Data & Messaging, items: [PostgreSQL, MongoDB, Redis, RabbitMQ, DynamoDB] }
+  - { category: Cloud & DevOps, items: [AWS, Lambda, Step Functions, Docker, Kubernetes, GitHub Actions] }
+  - { category: Additional Knowledge, items: [Node.js, NestJS, PHP, Laravel, Golang, Java, Spring Boot] }
+languages:
+  - { name: Portuguese, fluency: Native }
+  - { name: English, fluency: Professional working proficiency }
+  - { name: Spanish, fluency: Elementary }
+awards:
+  - { title: Legacy Modernization, summary: "Monolith-to-microservices and Python-to-Node.js migrations." }
+  - { title: Fintech Ecosystem, summary: "Banking, wallet, Open Banking, POS, and TEF integrations." }
