@@ -1,0 +1,186 @@
+schema_version: 1
+theme: modern
+locale: en-US
+target_role: Senior FullStack Developer
+basics:
+  name: Hebert Francisco Barros
+  headline: Senior FullStack Developer
+  summary: >-
+    Senior Developer with experience in fintech and healthtech, specializing
+    in financial integrations and microservices architecture.
+  links:
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/hebert-f-barros
+    - label: GitHub
+      url: https://github.com/hebertcisco
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Senior FullStack Developer
+    start_date: 2023-03
+    end_date: Present
+    location: Goiania, BR
+    highlights:
+      - >-
+        Lead mobile developer responsible for the architecture, CI/CD, design
+        and lifecycle of 24 Android and iOS applications (22 in production)
+        under an AaaS (Acquiring as a Service) model.
+      - >-
+        End-to-end full stack projects (Web, Backend and Mobile) with React.js,
+        React Native, Laravel and Node.js, from conception to maintenance.
+      - >-
+        Implementation and maintenance of CI/CD pipelines, versioning and
+        automated deployment for continuous delivery.
+      - >-
+        Integrations with banking and payment APIs, including Google Wallet,
+        Apple Pay and BaaS, focused on robustness and scalability.
+  - company: Nagro Credito Agro
+    position: Mid-level Backend Software Developer
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlandia, BR
+    highlights:
+      - >-
+        Development and maintenance of the credit risk system (B2C) and the
+        backend of internal applications with Node.js and MongoDB.
+      - >-
+        Migration of the backoffice from Python to Node.js, with automated
+        tests and best development practices.
+      - >-
+        Serverless web scraping projects integrated with AWS to support and
+        integrate teams.
+  - company: AYT1.DEV
+    position: Mid-level Backend Software Developer
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlandia, BR
+    highlights:
+      - >-
+        Development of HUBAID, a medical application with multiple services
+        and backend integrations.
+      - >-
+        NestJS stack with Node.js (TypeScript), Postgres, Redis, RabbitMQ and
+        SNS.
+      - >-
+        Authentication with Keycloak and custom libraries for the workflow.
+      - >-
+        Development and testing environments with SwarmPit and TypeORM for
+        object-relational mapping.
+  - company: Pagprime Bank
+    position: Mid-level Backend Software Developer
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiania, BR
+    highlights:
+      - Focus on API integrations and development of internal services.
+      - >-
+        Migration from monolith to microservices and creation of internal
+        tools to optimize development.
+      - >-
+        Integrations with banking APIs and payment systems, including TEF
+        terminals and Open Banking.
+  - company: Anbetec Tecnologia
+    position: Junior Software Developer
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiania, BR
+    highlights:
+      - >-
+        Web development focused on JavaScript and Oracle SQL database.
+      - Development of APIs with Node.js and initial interfaces with React.
+education:
+  - institution: Pontificia Universidade Catolica do Parana
+    area: Systems Analysis and Development
+    study_type: Bachelor's Degree
+    end_date: Present
+    location: Curitiba, PR
+  - institution: Centro de Ensino Santa Rita De Cassia
+    area: Information Technology
+    study_type: Technical Degree
+    start_date: 2018
+    end_date: 2020
+    location: Palmas, TO
+skills:
+  - category: Back-end
+    items:
+      - Node.js (Express, NestJS)
+      - Bun.js
+      - Deno
+      - PHP (Laravel, Symfony, Yii)
+      - Python (FastAPI, Flask)
+      - Golang (Gin)
+      - Java/Kotlin (Spring Boot)
+  - category: Frontend
+    items:
+      - HTML
+      - CSS
+      - JavaScript
+      - React.js
+      - Next.js
+      - Livewire
+      - WordPress
+  - category: Mobile
+    items:
+      - Native Android (Java, Kotlin)
+      - Native iOS (Swift)
+      - React Native
+      - Expo
+      - App store publishing
+  - category: Databases
+    items:
+      - MongoDB
+      - PostgreSQL
+      - MySQL
+      - Oracle SQL
+      - Redis
+      - DynamoDB
+  - category: Cloud & DevOps
+    items:
+      - AWS (SNS, S3, SQS, Lambda, Step Functions)
+      - Cloudflare
+      - RabbitMQ
+      - Docker/SwarmPit
+      - CI/CD (GitHub Actions, CircleCI, Jenkins)
+      - Kubernetes
+  - category: Architecture & Practices
+    items:
+      - Clean Architecture
+      - DDD
+      - SOLID
+      - TDD/BDD (Cucumber)
+      - Agile Methodologies
+      - SEO
+      - Design Patterns
+certifications:
+  - name: Data Analysis and Business Intelligence
+    issuer: GRAN
+    date: 2025-11
+  - name: Essential AI
+    issuer: Pontificia Universidade Catolica do Parana
+    date: 2025-09
+  - name: Cloud Computing
+    issuer: Estacio
+    date: 2025-09
+languages:
+  - name: Portuguese
+    fluency: Native
+  - name: English
+    fluency: Professional working proficiency
+  - name: Spanish
+    fluency: Elementary
+awards:
+  - title: Dozens of Apps
+    summary: >-
+      Lifecycle management of dozens of production apps under a White-Label
+      (AaaS) model.
+  - title: Legacy Modernization
+    summary: >-
+      Execution of 2 critical architecture migrations (monolith to
+      microservices and Python to Node.js).
+  - title: Fintech Ecosystem
+    summary: >-
+      Integration with banking operations and payment methods, including PIX,
+      TED, boletos, Google/Apple Pay, Open Banking, POS and TEF.
+  - title: DevOps & Automation
+    summary: >-
+      Implementation of 100% automation in CI/CD pipelines for continuous
+      delivery and versioning.
