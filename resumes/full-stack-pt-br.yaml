@@ -6,8 +6,10 @@ basics:
   name: Hebert Francisco Barros
   headline: Desenvolvedor FullStack Sênior
   summary: >-
-    Desenvolvedor Sênior com experiência em fintechs e healthtech, especialista
-    em integrações financeiras e arquitetura de microsserviços.
+    Desenvolvedor FullStack Sênior com mais de 5 anos de experiência em
+    fintechs e healthtech, especialista em integrações financeiras,
+    arquitetura de microsserviços e gestão de ciclo de vida de aplicativos
+    mobile de ponta a ponta.
   links:
     - label: LinkedIn
       url: https://www.linkedin.com/in/hebert-f-barros
@@ -21,18 +23,18 @@ work:
     location: Goiânia, BR
     highlights:
       - >-
-        Principal desenvolvedor mobile responsável pela arquitetura, CI/CD, design
-        e ciclo de vida de 24 aplicativos (22 em produção) Android e iOS no modelo
-        AaaS (Acquiring as a Service).
+        Principal desenvolvedor mobile, responsável pela arquitetura, CI/CD,
+        design e ciclo de vida de 24 aplicativos (22 em produção) Android e
+        iOS no modelo AaaS (Acquiring as a Service).
       - >-
-        Projetos full stack end-to-end (Web, Backend e Mobile) com React.js,
-        React Native, Laravel e Node.js, da concepção à manutenção.
+        Entrega projetos full stack end-to-end (Web, Backend e Mobile) com
+        React.js, React Native, Laravel e Node.js, da concepção à manutenção.
       - >-
-        Implementação e manutenção de pipelines de CI/CD, versionamento e deploy
-        automatizado para entrega contínua.
+        Desenha e mantém pipelines de CI/CD, versionamento e fluxos de deploy
+        automatizado para viabilizar a entrega contínua.
       - >-
-        Integrações com APIs bancárias e de pagamentos, incluindo Google Wallet,
-        Apple Pay e BaaS, com foco em robustez e escalabilidade.
+        Integra APIs bancárias e de pagamentos, incluindo Google Wallet, Apple
+        Pay e BaaS, priorizando robustez e escalabilidade.
   - company: Nagro Crédito Agro
     position: Desenvolvedor de Software Backend Pleno
     start_date: 2022-09
@@ -40,14 +42,14 @@ work:
     location: Uberlândia, BR
     highlights:
       - >-
-        Desenvolvimento e manutenção do sistema de risco de crédito (B2C) e do
-        backend de aplicações internas com Node.js e MongoDB.
+        Desenvolveu e manteve o sistema de risco de crédito (B2C) e o backend
+        de aplicações internas com Node.js e MongoDB.
       - >-
-        Migração do backoffice de Python para Node.js, com testes automatizados e
-        boas práticas de desenvolvimento.
+        Migrou o backoffice de Python para Node.js, introduzindo testes
+        automatizados e boas práticas de desenvolvimento.
       - >-
-        Projetos de web scraping serverless integrados a AWS para suporte e
-        integração de times.
+        Construiu soluções de web scraping serverless integradas a AWS para
+        apoiar e alinhar times multidisciplinares.
   - company: AYT1.DEV
     position: Desenvolvedor de Software Backend Pleno
     start_date: 2021-12
@@ -55,29 +57,30 @@ work:
     location: Uberlândia, BR
     highlights:
       - >-
-        Desenvolvimento do HUBAID, aplicação médica com múltiplos serviços e
-        integrações de backend.
+        Desenvolveu o HUBAID, aplicação médica integrando múltiplos serviços e
+        sistemas de backend.
       - >-
-        Stack NestJS com Node.js (TypeScript), Postgres, Redis, RabbitMQ e SNS.
+        Construiu a stack com NestJS, Node.js (TypeScript), Postgres, Redis,
+        RabbitMQ e SNS.
       - >-
-        Autenticação com Keycloak e bibliotecas customizadas para o fluxo de
-        trabalho.
+        Implementou autenticação com Keycloak e bibliotecas customizadas para
+        o fluxo de trabalho.
       - >-
-        Ambientes de desenvolvimento e testes com SwarmPit e TypeORM para
-        mapeamento objeto-relacional.
+        Administrou ambientes de desenvolvimento e testes com SwarmPit e
+        TypeORM para mapeamento objeto-relacional.
   - company: Pagprime Bank
     position: Desenvolvedor de Software Backend Pleno
     start_date: 2021-06
     end_date: 2021-12
     location: Goiânia, BR
     highlights:
-      - Foco em integrações de API e desenvolvimento de serviços internos.
+      - Conduziu integrações de API e desenvolvimento de serviços internos.
       - >-
-        Migração de monolito para microsserviços e criação de ferramentas internas
-        para otimizar o desenvolvimento.
+        Liderou a migração de monolito para microsserviços e construiu
+        ferramentas internas para otimizar o desenvolvimento.
       - >-
-        Integrações com APIs bancárias e sistemas de pagamento, incluindo
-        terminais TEF e Open Banking.
+        Integrou APIs bancárias e sistemas de pagamento, incluindo terminais
+        TEF e Open Banking.
   - company: Anbetec Tecnologia
     position: Desenvolvedor de Software Junior
     start_date: 2020-11
@@ -85,8 +88,9 @@ work:
     location: Goiânia, BR
     highlights:
       - >-
-        Desenvolvimento web com foco em JavaScript e banco de dados Oracle SQL.
-      - Desenvolvimento de APIs com Node.js e interfaces iniciais com React.
+        Desenvolveu funcionalidades web utilizando JavaScript e banco de dados
+        Oracle SQL.
+      - Construiu APIs com Node.js e interfaces iniciais com React.
 education:
   - institution: Pontifícia Universidade Católica do Paraná
     area: Análise e Desenvolvimento de Sistemas

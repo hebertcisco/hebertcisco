@@ -6,8 +6,9 @@ basics:
   name: Hebert Francisco Barros
   headline: Senior FullStack Developer
   summary: >-
-    Senior Developer with experience in fintech and healthtech, specializing
-    in financial integrations and microservices architecture.
+    Senior FullStack Developer with 5+ years of experience across fintech and
+    healthtech, specializing in financial integrations, microservices
+    architecture, and end-to-end mobile app lifecycle management.
   links:
     - label: LinkedIn
       url: https://www.linkedin.com/in/hebert-f-barros
@@ -21,18 +22,19 @@ work:
     location: Goiania, BR
     highlights:
       - >-
-        Lead mobile developer responsible for the architecture, CI/CD, design
-        and lifecycle of 24 Android and iOS applications (22 in production)
-        under an AaaS (Acquiring as a Service) model.
+        Lead mobile developer, owning the architecture, CI/CD, design and
+        lifecycle of 24 Android and iOS applications (22 in production) under
+        an AaaS (Acquiring as a Service) model.
       - >-
-        End-to-end full stack projects (Web, Backend and Mobile) with React.js,
-        React Native, Laravel and Node.js, from conception to maintenance.
+        Deliver end-to-end full stack projects (Web, Backend and Mobile) with
+        React.js, React Native, Laravel and Node.js, from conception to
+        maintenance.
       - >-
-        Implementation and maintenance of CI/CD pipelines, versioning and
-        automated deployment for continuous delivery.
+        Design and maintain CI/CD pipelines, versioning and automated
+        deployment workflows to enable continuous delivery.
       - >-
-        Integrations with banking and payment APIs, including Google Wallet,
-        Apple Pay and BaaS, focused on robustness and scalability.
+        Integrate banking and payment APIs, including Google Wallet, Apple Pay
+        and BaaS, prioritizing robustness and scalability.
   - company: Nagro Credito Agro
     position: Mid-level Backend Software Developer
     start_date: 2022-09
@@ -40,14 +42,14 @@ work:
     location: Uberlandia, BR
     highlights:
       - >-
-        Development and maintenance of the credit risk system (B2C) and the
-        backend of internal applications with Node.js and MongoDB.
+        Developed and maintained the B2C credit risk system and the backend
+        of internal applications with Node.js and MongoDB.
       - >-
-        Migration of the backoffice from Python to Node.js, with automated
-        tests and best development practices.
+        Migrated the backoffice from Python to Node.js, introducing automated
+        tests and development best practices.
       - >-
-        Serverless web scraping projects integrated with AWS to support and
-        integrate teams.
+        Built serverless web scraping solutions integrated with AWS to
+        support and align cross-functional teams.
   - company: AYT1.DEV
     position: Mid-level Backend Software Developer
     start_date: 2021-12
@@ -55,29 +57,30 @@ work:
     location: Uberlandia, BR
     highlights:
       - >-
-        Development of HUBAID, a medical application with multiple services
-        and backend integrations.
+        Developed HUBAID, a medical application integrating multiple services
+        and backend systems.
       - >-
-        NestJS stack with Node.js (TypeScript), Postgres, Redis, RabbitMQ and
-        SNS.
+        Built the stack with NestJS, Node.js (TypeScript), Postgres, Redis,
+        RabbitMQ and SNS.
       - >-
-        Authentication with Keycloak and custom libraries for the workflow.
+        Implemented authentication with Keycloak and custom workflow
+        libraries.
       - >-
-        Development and testing environments with SwarmPit and TypeORM for
-        object-relational mapping.
+        Managed development and testing environments with SwarmPit and
+        TypeORM for object-relational mapping.
   - company: Pagprime Bank
     position: Mid-level Backend Software Developer
     start_date: 2021-06
     end_date: 2021-12
     location: Goiania, BR
     highlights:
-      - Focus on API integrations and development of internal services.
+      - Drove API integrations and development of internal services.
       - >-
-        Migration from monolith to microservices and creation of internal
-        tools to optimize development.
+        Led the migration from monolith to microservices and built internal
+        tools to streamline development.
       - >-
-        Integrations with banking APIs and payment systems, including TEF
-        terminals and Open Banking.
+        Integrated banking APIs and payment systems, including TEF terminals
+        and Open Banking.
   - company: Anbetec Tecnologia
     position: Junior Software Developer
     start_date: 2020-11
@@ -85,8 +88,8 @@ work:
     location: Goiania, BR
     highlights:
       - >-
-        Web development focused on JavaScript and Oracle SQL database.
-      - Development of APIs with Node.js and initial interfaces with React.
+        Developed web features using JavaScript and an Oracle SQL database.
+      - Built APIs with Node.js and early interfaces with React.
 education:
   - institution: Pontificia Universidade Catolica do Parana
     area: Systems Analysis and Development
