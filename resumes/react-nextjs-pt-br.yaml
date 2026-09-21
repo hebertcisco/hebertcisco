@@ -1,0 +1,68 @@
+schema_version: 1
+theme: modern
+locale: pt-BR
+target_role: Desenvolvedor Frontend Sênior React / Next.js
+basics:
+  name: Hebert Francisco Barros
+  headline: Desenvolvedor Frontend Sênior React / Next.js
+  summary: >-
+    Desenvolvedor Frontend Sênior com mais de 8 anos de experiência em produtos
+    digitais, especializado em React.js, Next.js, JavaScript e integração de
+    interfaces com APIs para fintechs, SaaS, ERP e healthtech.
+  links:
+    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
+    - { label: GitHub, url: "https://github.com/hebertcisco" }
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Desenvolvedor FullStack Sênior
+    start_date: 2023-03
+    end_date: Present
+    location: Goiânia, BR
+    highlights:
+      - Entrega aplicações web end-to-end com React.js integradas a serviços Laravel e Node.js.
+      - Atua da concepção e design à manutenção de produtos financeiros em produção.
+      - Mantém pipelines de CI/CD, versionamento e deploy automatizado.
+  - company: Nagro Crédito Agro
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu aplicações internas para operações de risco de crédito B2C.
+      - Migrou o backoffice de Python para Node.js, adicionando testes e boas práticas.
+  - company: AYT1.DEV
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu o HUBAID, aplicação médica integrada a múltiplos serviços e backends.
+  - company: Pagprime Bank
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiânia, BR
+    highlights:
+      - Construiu ferramentas internas e integrou serviços bancários e de pagamentos.
+  - company: Anbetec Tecnologia
+    position: Desenvolvedor de Software Junior
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiânia, BR
+    highlights:
+      - Desenvolveu interfaces com React e funcionalidades web com JavaScript e Oracle SQL.
+education:
+  - { institution: Pontifícia Universidade Católica do Paraná, area: Análise e Desenvolvimento de Sistemas, study_type: Graduação, end_date: Present, location: "Curitiba, PR" }
+  - { institution: Centro de Ensino Santa Rita De Cássia, area: Informática, study_type: Técnico, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+skills:
+  - { category: React & Web, items: [React.js, Next.js, JavaScript, HTML, CSS] }
+  - { category: Integração & Qualidade, items: [APIs REST, TDD/BDD, Design Patterns, SEO, Metodologias Ágeis] }
+  - { category: Full Stack, items: [Node.js, NestJS, PHP, Laravel, PostgreSQL, MongoDB] }
+  - { category: Entrega, items: [GitHub Actions, CircleCI, Jenkins, Docker, Cloudflare] }
+languages:
+  - { name: Português, fluency: Nativo }
+  - { name: Inglês, fluency: Proficiência profissional }
+  - { name: Espanhol, fluency: Elementar }
+awards:
+  - { title: Produtos End-to-End, summary: "Entrega de soluções web, backend e mobile da concepção à manutenção." }
+  - { title: Ecossistema Fintech, summary: "Experiência em produtos conectados a operações bancárias e meios de pagamento." }

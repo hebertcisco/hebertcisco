@@ -1,0 +1,68 @@
+schema_version: 1
+theme: modern
+locale: pt-BR
+target_role: Desenvolvedor Backend Sênior Java / Kotlin / Spring Boot
+basics:
+  name: Hebert Francisco Barros
+  headline: Desenvolvedor de Software Sênior | Java, Kotlin e Spring Boot
+  summary: >-
+    Desenvolvedor de Software Sênior com mais de 8 anos de experiência em
+    sistemas financeiros, APIs e microsserviços, com conhecimentos em Java,
+    Kotlin e Spring Boot e experiência prática em integrações nativas Android.
+  links:
+    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
+    - { label: GitHub, url: "https://github.com/hebertcisco" }
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Desenvolvedor FullStack Sênior
+    start_date: 2023-03
+    end_date: Present
+    location: Goiânia, BR
+    highlights:
+      - Desenvolve produtos financeiros end-to-end e integrações nativas Android com Java e Kotlin.
+      - Integra APIs bancárias, BaaS, Google Wallet e Apple Pay.
+      - Mantém arquitetura, CI/CD e ciclo de vida de dezenas de aplicações em produção.
+  - company: Nagro Crédito Agro
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu sistemas de risco de crédito e soluções serverless integradas à AWS.
+  - company: AYT1.DEV
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu microsserviços com PostgreSQL, Redis, RabbitMQ, SNS e autenticação Keycloak.
+  - company: Pagprime Bank
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiânia, BR
+    highlights:
+      - Liderou migração de monolito para microsserviços e integrou APIs bancárias e Open Banking.
+  - company: Anbetec Tecnologia
+    position: Desenvolvedor de Software Junior
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiânia, BR
+    highlights:
+      - Desenvolveu APIs e funcionalidades web integradas ao Oracle SQL.
+education:
+  - { institution: Pontifícia Universidade Católica do Paraná, area: Análise e Desenvolvimento de Sistemas, study_type: Graduação, end_date: Present, location: "Curitiba, PR" }
+  - { institution: Centro de Ensino Santa Rita De Cássia, area: Informática, study_type: Técnico, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+skills:
+  - { category: Java & Kotlin, items: [Java, Kotlin, Spring Boot, Android nativo] }
+  - { category: Arquitetura Backend, items: [APIs REST, Microsserviços, Clean Architecture, DDD, SOLID, Design Patterns] }
+  - { category: Dados & Mensageria, items: [PostgreSQL, MySQL, Oracle SQL, Redis, RabbitMQ] }
+  - { category: Cloud & DevOps, items: [AWS, Docker, Kubernetes, GitHub Actions, Jenkins] }
+  - { category: Conhecimentos Complementares, items: [Node.js, NestJS, PHP, Laravel, Python, Golang] }
+languages:
+  - { name: Português, fluency: Nativo }
+  - { name: Inglês, fluency: Proficiência profissional }
+  - { name: Espanhol, fluency: Elementar }
+awards:
+  - { title: Modernização de Legado, summary: "Migração de arquitetura monolítica para microsserviços." }
+  - { title: Ecossistema Fintech, summary: "Integrações bancárias, wallets, Open Banking, POS e TEF." }

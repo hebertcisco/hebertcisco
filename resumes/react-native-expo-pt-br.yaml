@@ -1,0 +1,69 @@
+schema_version: 1
+theme: modern
+locale: pt-BR
+target_role: Desenvolvedor Mobile Sênior React Native / Expo
+basics:
+  name: Hebert Francisco Barros
+  headline: Desenvolvedor Mobile Sênior React Native / Expo
+  summary: >-
+    Desenvolvedor Mobile Sênior com mais de 8 anos de experiência, responsável
+    pela arquitetura, CI/CD e ciclo de vida de dezenas de aplicativos Android e
+    iOS, com foco em React Native, Expo e produtos financeiros white-label.
+  links:
+    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
+    - { label: GitHub, url: "https://github.com/hebertcisco" }
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Desenvolvedor FullStack Sênior / Principal Desenvolvedor Mobile
+    start_date: 2023-03
+    end_date: Present
+    location: Goiânia, BR
+    highlights:
+      - Lidera arquitetura, design, CI/CD e ciclo de vida de dezenas de apps Android e iOS no modelo AaaS.
+      - Entrega aplicativos com React Native e integrações nativas em Java, Kotlin e Swift.
+      - Integra Google Wallet, Apple Pay, BaaS e APIs de pagamentos.
+      - Automatiza versionamento, builds e publicação nas lojas.
+  - company: Nagro Crédito Agro
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu serviços Node.js e MongoDB para produtos de risco de crédito B2C.
+  - company: AYT1.DEV
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu o HUBAID, aplicação médica integrada a múltiplos serviços.
+  - company: Pagprime Bank
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiânia, BR
+    highlights:
+      - Integrou APIs bancárias, Open Banking e sistemas de pagamento TEF.
+  - company: Anbetec Tecnologia
+    position: Desenvolvedor de Software Junior
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiânia, BR
+    highlights:
+      - Desenvolveu APIs Node.js e interfaces iniciais com React.
+education:
+  - { institution: Pontifícia Universidade Católica do Paraná, area: Análise e Desenvolvimento de Sistemas, study_type: Graduação, end_date: Present, location: "Curitiba, PR" }
+  - { institution: Centro de Ensino Santa Rita De Cássia, area: Informática, study_type: Técnico, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+skills:
+  - { category: Mobile, items: [React Native, Expo, Android, iOS, Publicação nas lojas] }
+  - { category: Desenvolvimento Nativo, items: [Java, Kotlin, Swift] }
+  - { category: Integrações, items: [Google Wallet, Apple Pay, BaaS, APIs REST, Meios de pagamento] }
+  - { category: Entrega Mobile, items: [CI/CD, GitHub Actions, CircleCI, Jenkins, Docker] }
+  - { category: Full Stack, items: [React.js, Node.js, NestJS, PHP, Laravel, PostgreSQL, MongoDB] }
+languages:
+  - { name: Português, fluency: Nativo }
+  - { name: Inglês, fluency: Proficiência profissional }
+  - { name: Espanhol, fluency: Elementar }
+awards:
+  - { title: Dezenas de Apps, summary: "Gestão do ciclo de vida de dezenas de apps em produção no modelo white-label AaaS." }
+  - { title: Automação Mobile, summary: "Pipelines automatizados de versionamento, build e entrega contínua." }
