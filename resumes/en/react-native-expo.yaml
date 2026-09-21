@@ -52,18 +52,49 @@ work:
     highlights:
       - Developed Node.js APIs and early React interfaces.
 education:
-  - { institution: Pontificia Universidade Catolica do Parana, area: Systems Analysis and Development, study_type: Bachelor's Degree, end_date: Present, location: "Curitiba, PR" }
-  - { institution: Centro de Ensino Santa Rita De Cassia, area: Information Technology, study_type: Technical Degree, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+  - {
+      institution: Pontificia Universidade Catolica do Parana,
+      area: Systems Analysis and Development,
+      study_type: Bachelor's Degree,
+      end_date: Present,
+      location: "Curitiba, PR",
+    }
+  - {
+      institution: Centro de Ensino Santa Rita De Cassia,
+      area: Information Technology,
+      study_type: Technical Degree,
+      start_date: 2018,
+      end_date: 2020,
+      location: "Palmas, TO",
+    }
 skills:
-  - { category: Mobile, items: [React Native, Expo, Android, iOS, App store publishing] }
+  - {
+      category: Mobile,
+      items: [React Native, Expo, Android, iOS, App store publishing],
+    }
   - { category: Native Development, items: [Java, Kotlin, Swift] }
-  - { category: Integrations, items: [Google Wallet, Apple Pay, BaaS, REST APIs, Payment methods] }
-  - { category: Mobile Delivery, items: [CI/CD, GitHub Actions, CircleCI, Jenkins, Docker] }
-  - { category: Full Stack, items: [React.js, Node.js, NestJS, PHP, Laravel, PostgreSQL, MongoDB] }
+  - {
+      category: Integrations,
+      items: [Google Wallet, Apple Pay, BaaS, REST APIs, Payment methods],
+    }
+  - {
+      category: Mobile Delivery,
+      items: [CI/CD, GitHub Actions, CircleCI, Jenkins, Docker],
+    }
+  - {
+      category: Full Stack,
+      items: [React.js, Node.js, NestJS, PHP, Laravel, PostgreSQL, MongoDB],
+    }
 languages:
   - { name: Portuguese, fluency: Native }
   - { name: English, fluency: Professional working proficiency }
   - { name: Spanish, fluency: Elementary }
 awards:
-  - { title: Dozens of Apps, summary: "Lifecycle management of dozens of production apps in a white-label AaaS model." }
-  - { title: Mobile Automation, summary: "Automated versioning, build, and continuous delivery pipelines." }
+  - {
+      title: Dozens of Apps,
+      summary: "Lifecycle management of dozens of production apps in a white-label AaaS model.",
+    }
+  - {
+      title: Mobile Automation,
+      summary: "Automated versioning, build, and continuous delivery pipelines.",
+    }

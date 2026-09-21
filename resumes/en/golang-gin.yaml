@@ -52,18 +52,49 @@ work:
     highlights:
       - Developed APIs and web features integrated with Oracle SQL.
 education:
-  - { institution: Pontificia Universidade Catolica do Parana, area: Systems Analysis and Development, study_type: Bachelor's Degree, end_date: Present, location: "Curitiba, PR" }
-  - { institution: Centro de Ensino Santa Rita De Cassia, area: Information Technology, study_type: Technical Degree, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+  - {
+      institution: Pontificia Universidade Catolica do Parana,
+      area: Systems Analysis and Development,
+      study_type: Bachelor's Degree,
+      end_date: Present,
+      location: "Curitiba, PR",
+    }
+  - {
+      institution: Centro de Ensino Santa Rita De Cassia,
+      area: Information Technology,
+      study_type: Technical Degree,
+      start_date: 2018,
+      end_date: 2020,
+      location: "Palmas, TO",
+    }
 skills:
   - { category: Golang, items: [Golang, Gin, REST APIs, Microservices] }
-  - { category: Backend Architecture, items: [Clean Architecture, DDD, SOLID, Design Patterns, TDD/BDD] }
-  - { category: Data & Messaging, items: [PostgreSQL, MongoDB, Redis, RabbitMQ, DynamoDB] }
-  - { category: Cloud & DevOps, items: [AWS, Docker, Kubernetes, GitHub Actions, CircleCI, Jenkins] }
-  - { category: Additional Knowledge, items: [Node.js, NestJS, PHP, Laravel, Python, Java, Spring Boot] }
+  - {
+      category: Backend Architecture,
+      items: [Clean Architecture, DDD, SOLID, Design Patterns, TDD/BDD],
+    }
+  - {
+      category: Data & Messaging,
+      items: [PostgreSQL, MongoDB, Redis, RabbitMQ, DynamoDB],
+    }
+  - {
+      category: Cloud & DevOps,
+      items: [AWS, Docker, Kubernetes, GitHub Actions, CircleCI, Jenkins],
+    }
+  - {
+      category: Additional Knowledge,
+      items: [Node.js, NestJS, PHP, Laravel, Python, Java, Spring Boot],
+    }
 languages:
   - { name: Portuguese, fluency: Native }
   - { name: English, fluency: Professional working proficiency }
   - { name: Spanish, fluency: Elementary }
 awards:
-  - { title: Legacy Modernization, summary: "Migration from monolithic architecture to microservices." }
-  - { title: Fintech Ecosystem, summary: "Banking, wallet, Open Banking, POS, and TEF integrations." }
+  - {
+      title: Legacy Modernization,
+      summary: "Migration from monolithic architecture to microservices.",
+    }
+  - {
+      title: Fintech Ecosystem,
+      summary: "Banking, wallet, Open Banking, POS, and TEF integrations.",
+    }
