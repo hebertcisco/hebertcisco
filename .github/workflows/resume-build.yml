@@ -8,7 +8,7 @@ on:
   pull_request:
     paths:
       - resumes/**
-
+  workflow_dispatch:
 permissions:
   contents: read
 
