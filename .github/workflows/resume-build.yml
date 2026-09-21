@@ -41,7 +41,7 @@ jobs:
         uses: hebertcisco/resumec-action@v1.0.0
         with:
           input: resumes/${{ matrix.resume }}.yaml
-          format: both
+          format: pdf
           theme: modern
           output-dir: dist/${{ matrix.resume }}
 
