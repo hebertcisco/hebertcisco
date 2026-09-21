@@ -17,7 +17,6 @@ work:
     position: Analista de Sistemas Sênior
     start_date: 2026-08-19
     end_date: Present
-    location: Goiânia, BR · Presencial
     highlights:
       - Lidera a evolução de soluções mobile, backend e frontend, com foco em novas funcionalidades, correção de falhas e segurança da informação.
       - Gerencia o ciclo de vida, versionamento, CI/CD e publicação de dezenas de aplicativos Android e iOS.
@@ -29,7 +28,6 @@ work:
     position: Desenvolvedor FullStack Sênior
     start_date: 2023-03
     end_date: 2026-08-18
-    location: Goiânia, BR
     highlights:
       - Desenvolve produtos financeiros end-to-end e integrações nativas Android com Java e Kotlin.
       - Integra APIs bancárias, BaaS, Google Wallet e Apple Pay.

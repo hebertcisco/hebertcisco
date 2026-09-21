@@ -17,7 +17,6 @@ work:
     position: Senior Systems Analyst
     start_date: 2026-08-19
     end_date: Present
-    location: Goiania, BR · On-site
     highlights:
       - Leads mobile, backend, and frontend evolution, delivering features, resolving defects, and embedding information security practices.
       - Owns lifecycle management, versioning, CI/CD, and store releases for dozens of Android and iOS applications.
@@ -29,7 +28,6 @@ work:
     position: Senior FullStack Developer
     start_date: 2023-03
     end_date: 2026-08-18
-    location: Goiania, BR
     highlights:
       - Delivers end-to-end projects with Laravel, React.js, React Native, and Node.js in a payment ecosystem.
       - Integrates banking APIs, BaaS, Google Wallet, and Apple Pay with a focus on reliability and scalability.
