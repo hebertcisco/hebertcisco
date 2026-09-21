@@ -1,0 +1,103 @@
+schema_version: 1
+theme: modern
+locale: pt-BR
+target_role: Desenvolvedor Backend Sênior Node.js / NestJS
+basics:
+  name: Hebert Francisco Barros
+  headline: Desenvolvedor Backend Sênior Node.js / NestJS
+  summary: >-
+    Desenvolvedor Backend Sênior com mais de 8 anos de experiência, especializado
+    em Node.js, TypeScript, NestJS, integrações financeiras, microsserviços e APIs
+    escaláveis para fintechs, SaaS, ERP e healthtech.
+  links:
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/hebert-f-barros
+    - label: GitHub
+      url: https://github.com/hebertcisco
+work:
+  - company: Tradio Pagamentos LTDA - TRADIO
+    position: Desenvolvedor FullStack Sênior
+    start_date: 2023-03
+    end_date: Present
+    location: Goiânia, BR
+    highlights:
+      - Entrega backends e integrações financeiras com Node.js e Laravel em um ecossistema de pagamentos de alta criticidade.
+      - Integra APIs bancárias, BaaS, Google Wallet e Apple Pay com foco em robustez e escalabilidade.
+      - Mantém pipelines de CI/CD, versionamento e deploy automatizado para entrega contínua.
+  - company: Nagro Crédito Agro
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2022-09
+    end_date: 2023-02
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu o sistema B2C de risco de crédito e aplicações internas com Node.js e MongoDB.
+      - Migrou o backoffice de Python para Node.js, adicionando testes automatizados e boas práticas.
+      - Construiu soluções serverless de web scraping integradas à AWS.
+  - company: AYT1.DEV
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-12
+    end_date: 2022-09
+    location: Uberlândia, BR
+    highlights:
+      - Desenvolveu o backend do HUBAID com NestJS, Node.js, TypeScript, PostgreSQL, Redis e RabbitMQ.
+      - Implementou autenticação com Keycloak e persistência com TypeORM.
+  - company: Pagprime Bank
+    position: Desenvolvedor de Software Backend Pleno
+    start_date: 2021-06
+    end_date: 2021-12
+    location: Goiânia, BR
+    highlights:
+      - Liderou a migração de monolito para microsserviços e desenvolveu serviços internos.
+      - Integrou APIs bancárias, Open Banking e sistemas de pagamento TEF.
+  - company: Anbetec Tecnologia
+    position: Desenvolvedor de Software Junior
+    start_date: 2020-11
+    end_date: 2021-04
+    location: Goiânia, BR
+    highlights:
+      - Construiu APIs com Node.js e funcionalidades web integradas ao Oracle SQL.
+education:
+  - institution: Pontifícia Universidade Católica do Paraná
+    area: Análise e Desenvolvimento de Sistemas
+    study_type: Graduação
+    end_date: Present
+    location: Curitiba, PR
+  - institution: Centro de Ensino Santa Rita De Cássia
+    area: Informática
+    study_type: Técnico
+    start_date: 2018
+    end_date: 2020
+    location: Palmas, TO
+skills:
+  - category: Node.js & TypeScript
+    items: [Node.js, NestJS, Express, TypeScript, TypeORM]
+  - category: Arquitetura Backend
+    items: [Microsserviços, APIs REST, Clean Architecture, DDD, SOLID, TDD/BDD]
+  - category: Dados & Mensageria
+    items: [PostgreSQL, MongoDB, Redis, RabbitMQ, DynamoDB]
+  - category: Cloud & DevOps
+    items: [AWS, Docker, Kubernetes, GitHub Actions, CircleCI, Jenkins]
+  - category: Conhecimentos Complementares
+    items: [PHP, Laravel, Python, FastAPI, Golang, Gin, Java, Spring Boot]
+certifications:
+  - name: Análise de Dados e Inteligência de Negócios
+    issuer: GRAN
+    date: 2025-11
+  - name: IA Essencial
+    issuer: Pontifícia Universidade Católica do Paraná
+    date: 2025-09
+  - name: Computação em Nuvem
+    issuer: Estácio
+    date: 2025-09
+languages:
+  - name: Português
+    fluency: Nativo
+  - name: Inglês
+    fluency: Proficiência profissional
+  - name: Espanhol
+    fluency: Elementar
+awards:
+  - title: Modernização de Legado
+    summary: Migrações críticas de monolito para microsserviços e de Python para Node.js.
+  - title: Ecossistema Fintech
+    summary: Integrações com PIX, TED, boletos, wallets, Open Banking, POS e TEF.
