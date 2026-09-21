@@ -14,9 +14,21 @@ basics:
     - { label: GitHub, url: "https://github.com/hebertcisco" }
 work:
   - company: Tradio Pagamentos LTDA - TRADIO
+    position: Senior Systems Analyst
+    start_date: 2026-08-19
+    end_date: Present
+    location: Goiania, BR · On-site
+    highlights:
+      - Leads mobile, backend, and frontend evolution, delivering features, resolving defects, and embedding information security practices.
+      - Owns lifecycle management, versioning, CI/CD, and store releases for dozens of Android and iOS applications.
+      - Develops native Android and iOS integrations and features with Kotlin and Swift.
+      - Provides technical ownership for strategic features and large-scale implementations in a mission-critical financial ecosystem.
+      - Leads AI initiatives, integrating LLMs and MCP servers into products and internal processes.
+      - Mentors new hires and trainees, manages Jira tasks, and creates learning paths to support their growth.
+  - company: Tradio Pagamentos LTDA - TRADIO
     position: Senior FullStack Developer
     start_date: 2023-03
-    end_date: Present
+    end_date: 2026-08-18
     location: Goiania, BR
     highlights:
       - Delivers services and integrations in a mission-critical financial ecosystem.

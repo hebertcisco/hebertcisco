@@ -17,9 +17,34 @@ basics:
       url: https://github.com/hebertcisco
 work:
   - company: Tradio Pagamentos LTDA - TRADIO
+    position: Analista de Sistemas Sênior
+    start_date: 2026-08-19
+    end_date: Present
+    location: Goiânia, BR · Presencial
+    highlights:
+      - >-
+        Lidera a evolução de soluções mobile, backend e frontend, atuando no
+        desenvolvimento de funcionalidades, correção de falhas e aplicação de
+        práticas de segurança da informação ao ciclo de desenvolvimento.
+      - >-
+        Gerencia o ciclo de vida e as versões de dezenas de aplicativos Android
+        e iOS, incluindo manutenção, melhorias, CI/CD e publicação nas lojas.
+      - >-
+        Desenvolve integrações e funcionalidades nativas para Android e iOS com
+        Kotlin e Swift.
+      - >-
+        Responsável técnico por funcionalidades estratégicas e implementações
+        de grande porte em um ecossistema financeiro de alta criticidade.
+      - >-
+        Lidera iniciativas de inovação e inteligência artificial, integrando
+        LLMs e servidores MCP aos produtos e processos internos.
+      - >-
+        Orienta novos profissionais e trainees, gerencia e elabora tarefas no
+        Jira e estrutura trilhas de estudos para acompanhar sua evolução.
+  - company: Tradio Pagamentos LTDA - TRADIO
     position: Desenvolvedor FullStack Sênior
     start_date: 2023-03
-    end_date: Present
+    end_date: 2026-08-18
     location: Goiânia, BR
     highlights:
       - >-
