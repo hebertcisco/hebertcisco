@@ -1,3 +1,4 @@
+---
 schema_version: 1
 theme: modern
 locale: pt-BR
@@ -5,74 +6,114 @@ target_role: Desenvolvedor Frontend Sênior React / Next.js
 basics:
   name: Hebert Francisco Barros
   headline: Desenvolvedor Frontend Sênior React / Next.js
-  summary: >-
-    Desenvolvedor Frontend Sênior com mais de 8 anos de experiência em produtos
-    digitais, especializado em React.js, Next.js, JavaScript e integração de
-    interfaces com APIs para fintechs, SaaS, ERP e healthtech.
+  summary: Desenvolvedor Frontend Sênior com experiência em desenvolvimento de software desde 2017, incluindo projetos freelance em produtos digitais, especializado em React.js, Next.js, JavaScript e integração de interfaces com APIs para fintechs, SaaS, ERP e healthtech.
   links:
-    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
-    - { label: GitHub, url: "https://github.com/hebertcisco" }
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/hebert-f-barros
+  - label: GitHub
+    url: https://github.com/hebertcisco
 work:
-  - company: Tradio Pagamentos LTDA - TRADIO
-    position: Analista de Sistemas Sênior
-    start_date: 2026-08-19
-    end_date: 2026-11
-    highlights:
-      - Lidera a evolução de soluções mobile, backend e frontend, com foco em novas funcionalidades, correção de falhas e segurança da informação.
-      - Gerencia o ciclo de vida, versionamento, CI/CD e publicação de dezenas de aplicativos Android e iOS.
-      - Desenvolve integrações e funcionalidades nativas para Android e iOS com Kotlin e Swift.
-      - Responde tecnicamente por funcionalidades estratégicas e implementações de grande porte em um ecossistema financeiro de alta criticidade.
-      - Lidera iniciativas de IA, integrando LLMs e servidores MCP aos produtos e processos internos.
-      - Orienta novos profissionais e trainees, gerencia tarefas no Jira e estrutura trilhas de estudos.
-  - company: Tradio Pagamentos LTDA - TRADIO
-    position: Desenvolvedor FullStack Sênior
-    start_date: 2023-03
-    end_date: 2026-08-18
-    highlights:
-      - Entrega aplicações web end-to-end com React.js integradas a serviços Laravel e Node.js.
-      - Atua da concepção e design à manutenção de produtos financeiros em produção.
-      - Mantém pipelines de CI/CD, versionamento e deploy automatizado.
-  - company: Nagro Crédito Agro
-    position: Desenvolvedor de Software Backend Pleno
-    start_date: 2022-09
-    end_date: 2023-02
-    location: Uberlândia, BR
-    highlights:
-      - Desenvolveu aplicações internas para operações de risco de crédito B2C.
-      - Migrou o backoffice de Python para Node.js, adicionando testes e boas práticas.
-  - company: AYT1.DEV
-    position: Desenvolvedor de Software Backend Pleno
-    start_date: 2021-12
-    end_date: 2022-09
-    location: Uberlândia, BR
-    highlights:
-      - Desenvolveu o HUBAID, aplicação médica integrada a múltiplos serviços e backends.
-  - company: Pagprime Bank
-    position: Desenvolvedor de Software Backend Pleno
-    start_date: 2021-06
-    end_date: 2021-12
-    location: Goiânia, BR
-    highlights:
-      - Construiu ferramentas internas e integrou serviços bancários e de pagamentos.
-  - company: Anbetec Tecnologia
-    position: Desenvolvedor de Software Junior
-    start_date: 2020-11
-    end_date: 2021-04
-    location: Goiânia, BR
-    highlights:
-      - Desenvolveu interfaces com React e funcionalidades web com JavaScript e Oracle SQL.
+- company: Tradio Pagamentos LTDA - TRADIO
+  position: Desenvolvedor Full Stack Sênior e Analista de Sistemas Sênior
+  start_date: '2023-03-03'
+  end_date: '2026-11-03'
+  highlights:
+  - Liderou a evolução de soluções mobile, backend e frontend, com foco em novas funcionalidades, correção de falhas e segurança da informação.
+  - Gerenciou o ciclo de vida, versionamento, CI/CD e publicação de dezenas de aplicativos Android e iOS.
+  - Desenvolveu integrações e funcionalidades nativas para Android e iOS com Kotlin e Swift.
+  - Respondeu tecnicamente por funcionalidades estratégicas e implementações de grande porte em um ecossistema financeiro de alta criticidade.
+  - Liderou iniciativas de IA, integrando LLMs e servidores MCP aos produtos e processos internos.
+  - Orientou novos profissionais e trainees, gerencia tarefas no Jira e estrutura trilhas de estudos.
+  - Entregou aplicações web end-to-end com React.js integradas a serviços Laravel e Node.js.
+  - Atua da concepção e design à manutenção de produtos financeiros em produção.
+  - Manteve pipelines de CI/CD, versionamento e deploy automatizado.
+- company: Nagro Crédito Agro
+  position: Desenvolvedor de Software Backend Pleno
+  start_date: 2022-09
+  end_date: 2023-02
+  location: Uberlândia, BR
+  highlights:
+  - Desenvolveu aplicações internas para operações de risco de crédito B2C.
+  - Migrou o backoffice de Python para Node.js, adicionando testes e boas práticas.
+- company: AYT1.DEV
+  position: Desenvolvedor de Software Backend Pleno
+  start_date: 2021-12
+  end_date: 2022-09
+  location: Uberlândia, BR
+  highlights:
+  - Desenvolveu o HUBAID, aplicação médica integrada a múltiplos serviços e backends.
+- company: Pagprime Bank
+  position: Desenvolvedor de Software Backend Pleno
+  start_date: 2021-06
+  end_date: 2021-12
+  location: Goiânia, BR
+  highlights:
+  - Construiu ferramentas internas e integrou serviços bancários e de pagamentos.
+- company: Anbetec Tecnologia
+  position: Desenvolvedor de Software Junior
+  start_date: 2020-11
+  end_date: 2021-04
+  location: Goiânia, BR
+  highlights:
+  - Desenvolveu interfaces com React e funcionalidades web com JavaScript e Oracle SQL.
+- company: Projetos freelance - Workana
+  position: Desenvolvedor Freelancer
+  start_date: '2017'
+  end_date: '2020'
+  highlights:
+  - Desenvolveu projetos sob demanda com JavaScript, HTML e CSS, além de aplicações com Angular e Ionic.
+  - Criou aplicações Android nativas e integrou serviços com Firebase.
 education:
-  - { institution: Pontifícia Universidade Católica do Paraná, area: Análise e Desenvolvimento de Sistemas, study_type: Graduação, end_date: Present, location: "Curitiba, PR" }
-  - { institution: Centro de Ensino Santa Rita De Cássia, area: Informática, study_type: Técnico, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+- institution: Pontifícia Universidade Católica do Paraná
+  area: Análise e Desenvolvimento de Sistemas
+  study_type: Graduação
+  end_date: Present
+  location: Curitiba, PR
+- institution: Centro de Ensino Santa Rita De Cássia
+  area: Informática
+  study_type: Técnico
+  start_date: 2018
+  end_date: 2020
+  location: Palmas, TO
 skills:
-  - { category: React & Web, items: [React.js, Next.js, JavaScript, HTML, CSS] }
-  - { category: Integração & Qualidade, items: [APIs REST, TDD/BDD, Design Patterns, SEO, Metodologias Ágeis] }
-  - { category: Full Stack, items: [Node.js, NestJS, PHP, Laravel, PostgreSQL, MongoDB] }
-  - { category: Entrega, items: [GitHub Actions, CircleCI, Jenkins, Docker, Cloudflare] }
+- category: React & Web
+  items:
+  - React.js
+  - Next.js
+  - JavaScript
+  - HTML
+  - CSS
+- category: Integração & Qualidade
+  items:
+  - APIs REST
+  - TDD/BDD
+  - Design Patterns
+  - SEO
+  - Metodologias Ágeis
+- category: Full Stack
+  items:
+  - Node.js
+  - NestJS
+  - PHP
+  - Laravel
+  - PostgreSQL
+  - MongoDB
+- category: Entrega
+  items:
+  - GitHub Actions
+  - CircleCI
+  - Jenkins
+  - Docker
+  - Cloudflare
 languages:
-  - { name: Português, fluency: Nativo }
-  - { name: Inglês, fluency: Proficiência profissional }
-  - { name: Espanhol, fluency: Elementar }
+- name: Português (Brasil)
+  fluency: Nativo; brasileiro e escritor
+- name: Inglês
+  fluency: 'Intermediário funcional: compreende e conversa; experiência em calls e resolução de demandas em inglês'
+- name: Espanhol
+  fluency: Elementar
 awards:
-  - { title: Produtos End-to-End, summary: "Entrega de soluções web, backend e mobile da concepção à manutenção." }
-  - { title: Ecossistema Fintech, summary: "Experiência em produtos conectados a operações bancárias e meios de pagamento." }
+- title: Produtos End-to-End
+  summary: Entrega de soluções web, backend e mobile da concepção à manutenção.
+- title: Ecossistema Fintech
+  summary: Experiência em produtos conectados a operações bancárias e meios de pagamento.

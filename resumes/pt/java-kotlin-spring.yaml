@@ -1,3 +1,4 @@
+---
 schema_version: 1
 theme: modern
 locale: pt-BR
@@ -5,74 +6,126 @@ target_role: Desenvolvedor Backend Sênior Java / Kotlin / Spring Boot
 basics:
   name: Hebert Francisco Barros
   headline: Desenvolvedor de Software Sênior | Java, Kotlin e Spring Boot
-  summary: >-
-    Desenvolvedor de Software Sênior com mais de 8 anos de experiência em
-    sistemas financeiros, APIs e microsserviços, com conhecimentos em Java,
-    Kotlin e Spring Boot e experiência prática em integrações nativas Android.
+  summary: Desenvolvedor de Software Sênior com experiência em desenvolvimento de software desde 2017, incluindo projetos freelance em sistemas financeiros, APIs e microsserviços, com conhecimentos em Java, Kotlin e Spring Boot e experiência prática em integrações nativas Android.
   links:
-    - { label: LinkedIn, url: "https://www.linkedin.com/in/hebert-f-barros" }
-    - { label: GitHub, url: "https://github.com/hebertcisco" }
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/hebert-f-barros
+  - label: GitHub
+    url: https://github.com/hebertcisco
 work:
-  - company: Tradio Pagamentos LTDA - TRADIO
-    position: Analista de Sistemas Sênior
-    start_date: 2026-08-19
-    end_date: 2026-11
-    highlights:
-      - Lidera a evolução de soluções mobile, backend e frontend, com foco em novas funcionalidades, correção de falhas e segurança da informação.
-      - Gerencia o ciclo de vida, versionamento, CI/CD e publicação de dezenas de aplicativos Android e iOS.
-      - Desenvolve integrações e funcionalidades nativas para Android e iOS com Kotlin e Swift.
-      - Responde tecnicamente por funcionalidades estratégicas e implementações de grande porte em um ecossistema financeiro de alta criticidade.
-      - Lidera iniciativas de IA, integrando LLMs e servidores MCP aos produtos e processos internos.
-      - Orienta novos profissionais e trainees, gerencia tarefas no Jira e estrutura trilhas de estudos.
-  - company: Tradio Pagamentos LTDA - TRADIO
-    position: Desenvolvedor FullStack Sênior
-    start_date: 2023-03
-    end_date: 2026-08-18
-    highlights:
-      - Desenvolve produtos financeiros end-to-end e integrações nativas Android com Java e Kotlin.
-      - Integra APIs bancárias, BaaS, Google Wallet e Apple Pay.
-      - Mantém arquitetura, CI/CD e ciclo de vida de dezenas de aplicações em produção.
-  - company: Nagro Crédito Agro
-    position: Desenvolvedor de Software Backend Pleno
-    start_date: 2022-09
-    end_date: 2023-02
-    location: Uberlândia, BR
-    highlights:
-      - Desenvolveu sistemas de risco de crédito e soluções serverless integradas à AWS.
-  - company: AYT1.DEV
-    position: Desenvolvedor de Software Backend Pleno
-    start_date: 2021-12
-    end_date: 2022-09
-    location: Uberlândia, BR
-    highlights:
-      - Desenvolveu microsserviços com PostgreSQL, Redis, RabbitMQ, SNS e autenticação Keycloak.
-  - company: Pagprime Bank
-    position: Desenvolvedor de Software Backend Pleno
-    start_date: 2021-06
-    end_date: 2021-12
-    location: Goiânia, BR
-    highlights:
-      - Liderou migração de monolito para microsserviços e integrou APIs bancárias e Open Banking.
-  - company: Anbetec Tecnologia
-    position: Desenvolvedor de Software Junior
-    start_date: 2020-11
-    end_date: 2021-04
-    location: Goiânia, BR
-    highlights:
-      - Desenvolveu APIs e funcionalidades web integradas ao Oracle SQL.
+- company: Tradio Pagamentos LTDA - TRADIO
+  position: Desenvolvedor Full Stack Sênior e Analista de Sistemas Sênior
+  start_date: '2023-03-03'
+  end_date: '2026-11-03'
+  highlights:
+  - Liderou a evolução de soluções mobile, backend e frontend, com foco em novas funcionalidades, correção de falhas e segurança da informação.
+  - Gerenciou o ciclo de vida, versionamento, CI/CD e publicação de dezenas de aplicativos Android e iOS.
+  - Desenvolveu integrações e funcionalidades nativas para Android e iOS com Kotlin e Swift.
+  - Respondeu tecnicamente por funcionalidades estratégicas e implementações de grande porte em um ecossistema financeiro de alta criticidade.
+  - Liderou iniciativas de IA, integrando LLMs e servidores MCP aos produtos e processos internos.
+  - Orientou novos profissionais e trainees, gerencia tarefas no Jira e estrutura trilhas de estudos.
+  - Desenvolveu produtos financeiros end-to-end e integrações nativas Android com Java e Kotlin.
+  - Integrou APIs bancárias, BaaS, Google Wallet e Apple Pay.
+  - Manteve arquitetura, CI/CD e ciclo de vida de dezenas de aplicações em produção.
+- company: Nagro Crédito Agro
+  position: Desenvolvedor de Software Backend Pleno
+  start_date: 2022-09
+  end_date: 2023-02
+  location: Uberlândia, BR
+  highlights:
+  - Desenvolveu sistemas de risco de crédito e soluções serverless integradas à AWS.
+- company: AYT1.DEV
+  position: Desenvolvedor de Software Backend Pleno
+  start_date: 2021-12
+  end_date: 2022-09
+  location: Uberlândia, BR
+  highlights:
+  - Desenvolveu microsserviços com PostgreSQL, Redis, RabbitMQ, SNS e autenticação Keycloak.
+- company: Pagprime Bank
+  position: Desenvolvedor de Software Backend Pleno
+  start_date: 2021-06
+  end_date: 2021-12
+  location: Goiânia, BR
+  highlights:
+  - Liderou migração de monolito para microsserviços e integrou APIs bancárias e Open Banking.
+- company: Anbetec Tecnologia
+  position: Desenvolvedor de Software Junior
+  start_date: 2020-11
+  end_date: 2021-04
+  location: Goiânia, BR
+  highlights:
+  - Desenvolveu APIs e funcionalidades web integradas ao Oracle SQL.
+- company: Projeto pessoal - Dolar Hoje
+  position: Desenvolvedor Kotlin / Spring Boot
+  highlights:
+  - Backend desenvolvido com Kotlin e Spring Boot.
+  - Também utiliza Kotlin em Android nativo e em módulos nativos para React Native.
+  - Possui projetos pessoais adicionais em Java.
+- company: Projetos freelance - Workana
+  position: Desenvolvedor Freelancer
+  start_date: '2017'
+  end_date: '2020'
+  highlights:
+  - Desenvolveu projetos sob demanda com JavaScript, HTML e CSS, além de aplicações com Angular e Ionic.
+  - Criou aplicações Android nativas e integrou serviços com Firebase.
 education:
-  - { institution: Pontifícia Universidade Católica do Paraná, area: Análise e Desenvolvimento de Sistemas, study_type: Graduação, end_date: Present, location: "Curitiba, PR" }
-  - { institution: Centro de Ensino Santa Rita De Cássia, area: Informática, study_type: Técnico, start_date: 2018, end_date: 2020, location: "Palmas, TO" }
+- institution: Pontifícia Universidade Católica do Paraná
+  area: Análise e Desenvolvimento de Sistemas
+  study_type: Graduação
+  end_date: Present
+  location: Curitiba, PR
+- institution: Centro de Ensino Santa Rita De Cássia
+  area: Informática
+  study_type: Técnico
+  start_date: 2018
+  end_date: 2020
+  location: Palmas, TO
 skills:
-  - { category: Java & Kotlin, items: [Java, Kotlin, Spring Boot, Android nativo] }
-  - { category: Arquitetura Backend, items: [APIs REST, Microsserviços, Clean Architecture, DDD, SOLID, Design Patterns] }
-  - { category: Dados & Mensageria, items: [PostgreSQL, MySQL, Oracle SQL, Redis, RabbitMQ] }
-  - { category: Cloud & DevOps, items: [AWS, Docker, Kubernetes, GitHub Actions, Jenkins] }
-  - { category: Conhecimentos Complementares, items: [Node.js, NestJS, PHP, Laravel, Python, Golang] }
+- category: Java & Kotlin
+  items:
+  - Java
+  - Kotlin
+  - Spring Boot
+  - Android nativo
+- category: Arquitetura Backend
+  items:
+  - APIs REST
+  - Microsserviços
+  - Clean Architecture
+  - DDD
+  - SOLID
+  - Design Patterns
+- category: Dados & Mensageria
+  items:
+  - PostgreSQL
+  - MySQL
+  - Oracle SQL
+  - Redis
+  - RabbitMQ
+- category: Cloud & DevOps
+  items:
+  - AWS
+  - Docker
+  - Kubernetes
+  - GitHub Actions
+  - Jenkins
+- category: Conhecimentos Complementares
+  items:
+  - Node.js
+  - NestJS
+  - PHP
+  - Laravel
+  - Python
+  - Golang
 languages:
-  - { name: Português, fluency: Nativo }
-  - { name: Inglês, fluency: Proficiência profissional }
-  - { name: Espanhol, fluency: Elementar }
+- name: Português (Brasil)
+  fluency: Nativo; brasileiro e escritor
+- name: Inglês
+  fluency: 'Intermediário funcional: compreende e conversa; experiência em calls e resolução de demandas em inglês'
+- name: Espanhol
+  fluency: Elementar
 awards:
-  - { title: Modernização de Legado, summary: "Migração de arquitetura monolítica para microsserviços." }
-  - { title: Ecossistema Fintech, summary: "Integrações bancárias, wallets, Open Banking, POS e TEF." }
+- title: Modernização de Legado
+  summary: Migração de arquitetura monolítica para microsserviços.
+- title: Ecossistema Fintech
+  summary: Integrações bancárias, wallets, Open Banking, POS e TEF.
